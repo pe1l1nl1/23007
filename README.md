@@ -8,32 +8,31 @@
 -->
 
 <details id=2 open>
-<summary><h2> Previous Projects </h2></summary>
+<summary><h2> 第一学期 </h2></summary>
 
-### 第一学期
+### 拉丁语
 
 1.  [](https://www.figma.com/file/rXd6Rv6HUjVkVKzRBiahdK/GREENER?node-id=5%3A4226)
 2. 
   
   
-### 
+### 心理学
 
 
-1. Video introduction [youtube](https://youtu.be/DzbcShljmQE)
-1. Find the [map](https://github.com/JenyaPu/TurkuLife)
-1. More information [here](https://docs.google.com/document/d/13oTHdf4OECJiRPGcbx-3KOHWM1PB6sHP5Sln7sGCDWU)
-1. [Prototypes](https://www.figma.com/file/UYBYJqylGACqRsoCqFXaya/TurkuLife?node-id=0%3A1) 
-  
 
-### 🩺 Carin Care 
-  
-  1. Introduction [Video](https://drive.google.com/file/d/14QsI-M7mFE1IC4Np_Pi7CbV5Rf-eBLlw/view?usp=sharing)
-  1. Application [Mockups](https://drive.google.com/drive/folders/1JJW1T8wotbHnFh1VvcZhosu5_zAbt4dW?usp=sharing)
-  1. Business plan [here](https://drive.google.com/file/d/1fzfqZ-N-q1kwSXKrHhDfqdtJjniIasJY/view?usp=sharing)
+### 社会和文化学
+
+### 医学介绍
+
+### 化学
+
+### 细胞学
+
+### 解刨学
 
 </details>
 
-<details id=3><summary><h2> Programming and data analysis projects (updating...) </h2></summary>
+<details id=3><summary><h2> 第二学期 </h2></summary>
 
 last update 4-August-2022
 
@@ -45,9 +44,9 @@ last update 4-August-2022
 
 
 
-<details id=3><summary><h2> 第一学期 </h2></summary>
+<details id=3><summary><h2> 第三学期 </h2></summary>
 
-updating from 17 Apr 2023 to 27 Nov 2023
+
 
 1. xx[Notes](x)
 
