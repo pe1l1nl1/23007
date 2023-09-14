@@ -1,26 +1,29 @@
-**The test questions will be as follows:**
+## The test questions will be as follows: ##
 
-Staining:
+### Staining: ###
+
+```
 	1. Explain mucus (mucin) and carbohydrate staining including examples of stains used for this and structures that can be stained 
 	2. Explain silver methods for tissue staining including examples 
 	3. Explain elastic fiber staining, and its possible combination with other methods of staining including examples 
 	4.  Explain trichrome methods principle and variants, uses in normal histology and histopathology
 	5.   Explain the staining mechanism of hematoxylin and eosin stain, explain which structures are stained by this method, and why hematoxylin and eosin stains different parts of cell or tissue differently
 	6. Explain the principle of the immunohistochemistry/immunofluorescence method
+```
+### For mitosis questions will be: ###
 
-For mitosis questions will be:
-
+```
 	-   Changes in cells nucleus and cytoplasm during prophase with a a drawing of cell in prophase
 	-   Changes in cells nucleus and cytoplasm during prometaphase with a drawing of cell in prometaphase
 	-   Changes in cells nucleus and cytoplasm during metaphase and anaphase with a drawing of cell in metaphase and anaphase
 	-   Changes in cells nucleus and cytoplasm during telophase and cytokinesis with a drawing of cell in telophase and cytokinesis
 
+```
 Explanations: let's break down each of these staining techniques:
 
-1. **Mucus (Mucin) and Carbohydrate Staining /Liman (muskiinin) ja hiilihydraattien värjäytyminen:**
-	   - **Mucin** is a glycoprotein found in mucus secreted by various tissues, including the respiratory and digestive tracts.
+1. **Mucus (Mucin) and Carbohydrate Staining /Liman (muskiinin) ja hiilihydraattien värjäytyminen:** **Mucin** is a glycoprotein found in mucus secreted by various tissues, including the respiratory and digestive tracts.
 	   - Carbohydrate staining is used to highlight glycoproteins like mucin.
-	   - **Examples of Stains:** Alcian blue, periodic acid-Schiff (PAS) stain.
+ **Examples of Stains:** Alcian blue, periodic acid-Schiff (PAS) stain.
 	   - **Structures Stained:** Mucin-containing cells and mucous substances.
 	   - ![[Pasted image 20230913095500.png]]
 2. **Silver Methods for Tissue Staining/Hopeamenetelmät kudosten värjäyksessä:**
