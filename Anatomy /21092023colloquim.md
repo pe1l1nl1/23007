@@ -1,0 +1,10 @@
+- Bone given identify 
+- Connection 
+- Please show some sundemosis in vertebra in collum 
+- Connection btw c1-2 
+- C1 skull 
+- Connection rips vertabrae 
+- Collum and sternum 
+- Please explain which structure 
+- Name structure walls of thoracic cavitae 
+- Rotation of head in which articulation 
