@@ -31,7 +31,9 @@ In the spine, the connections between vertebrae are primarily classified as "syn
 These joints are not considered syndesmoses because they have different structural characteristics and functions compared to syndesmoses. Syndesmoses are characterized by fibrous ligaments that allow for very little or no movement, whereas the joints between vertebrae in the cervical spine and other regions are designed to allow specific ranges of motion.
 
 
-# **Connection Between C1-2:** As mentioned above, the connection between C1 and C2 is crucial for neck movement. The atlas (C1) sits atop the axis (C2), and the articulation between them is responsible for the majority of the rotational movement of the head.
+# **Connection Between C1-2:** 
+
+As mentioned above, the connection between C1 and C2 is crucial for neck movement. The atlas (C1) sits atop the axis (C2), and the articulation between them is responsible for the majority of the rotational movement of the head.
 
 The connection between the first cervical vertebra (C1) and the second cervical vertebra (C2) is a critical and specialized joint in the neck region known as the "atlanto-axial joint." This joint is responsible for allowing rotational movement of the head.
 
@@ -61,7 +63,7 @@ Atlas (C1): The atlas is the first cervical vertebra, located at the top of the 
 
 Occipital Bone: The occipital bone is part of the cranium (skull) and forms the base of the skull at the back of the head.
 
-Atlanto-Occipital Joint: The atlanto-occipital joint is the articulation between the atlas (C1) and the occipital bone of the skull. It allows for the primary movement of nodding the head forward and backward, resembling the motion of saying "yes."
+Atlanto-Occipital Joint: The atlanto-occipital joint is the articulation between the atlas (C1) and the occipital bone of the skull. It allows for the primary movement of nodding the head forward and backwards, resembling the motion of saying "yes."
 
 Key points about the atlanto-occipital joint:
 
@@ -87,6 +89,8 @@ In summary, the atlanto-occipital joint is the connection between the first cerv
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/b6a4d254-9e65-4ee9-968b-bbe2c8bde1e6)
 
 
+# Ligaments of the Spine
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/081887a5-ba37-490f-840a-fe9a9fa80e34)
 
 
 
