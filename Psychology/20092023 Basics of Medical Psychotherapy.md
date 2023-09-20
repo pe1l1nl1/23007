@@ -51,5 +51,7 @@
 
 - Medical  conditions are influenced by  people’s behaviour
 - Behaviour  often is the result of  unconscious mental processes (**psychodynamics**) 
-- People acquire behaviour **learning**, and have been “unlearned ” 
+- People acquire behaviour **learning**, and have been “unlearned”
+
+
 
