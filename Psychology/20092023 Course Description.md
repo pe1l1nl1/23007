@@ -13,12 +13,10 @@
 
 
 **The final assessment for the course consists of
-Intermediate test**:
-
-1. **2** midterm exams: presentations on the topics covered in classes and lectures ( each 25 % of the total assessment
+Intermediate test**: **2** midterm exams: presentations on the topics covered in classes and lectures ( each 25 % of the total assessment
 
 **Final examination:**
-2. written final exam in two parts ( each 25 % of the total assessment).
+ Written final exam in two parts (each 25 % of the total assessment).
 
 **Exam topics:**
 1) Psychic processes, intelligence, language and speech;
