@@ -8,8 +8,8 @@
 
 **Psychotherapy**
 
-1.Independent study of compulsory reading
+1. Independent study of compulsory reading
 2. To present one psychological( ego) defense mechanism ( from G. Vailant “ Ego adaptation” or other source, available in Library) , 
 present it in small group.
-3.To find one adaptive example of defense mechanism and maladaptive expression , preferably, in medicals situation. 
+3. To find one adaptive example of defense mechanism and maladaptive expression , preferably, in medicals situation. 
 To discuss it in small group to prepare presentation. Present it in practical class
