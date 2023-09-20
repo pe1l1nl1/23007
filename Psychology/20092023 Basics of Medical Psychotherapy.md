@@ -56,4 +56,8 @@
 **Behaviour Sciences in Medicine** 
 - IV. The theoretical framework of the doctor-patient relationship - Human Rights and Biomedicine (coe. int)
 
+**Medical Curriculum: Psychology & Medicine**
+
+Jan  Steen 1660 
+
 
