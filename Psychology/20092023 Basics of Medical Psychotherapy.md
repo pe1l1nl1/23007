@@ -53,7 +53,7 @@
 - Behaviour  often is the result of  unconscious mental processes (**psychodynamics**) 
 - People acquire behaviour **learning**, and have been “unlearned”
 
-### Behaviour Sciences in Medicine 
-- IV. Theoretical framework of the doctor-patient relationship - Human Rights and Biomedicine (coe.int)
+**Behaviour Sciences in Medicine** 
+- IV. The theoretical framework of the doctor-patient relationship - Human Rights and Biomedicine (coe. int)
 
 
