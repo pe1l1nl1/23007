@@ -8,13 +8,9 @@
 -->
 
 <details id=2 open>
-<summary><h2> 第一学期 </h2></summary>
+<summary><h2> Semester 1 </h2></summary>
 
 ### Ķīmi1100: Chemistry for medical students
-
-1. ccc
-2. 
-  
   
 ### Medi1052-EN : Introduction to Medicine Studies
 
