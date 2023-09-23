@@ -25,13 +25,13 @@
 
 </details>
 
-<details id=3><summary><h2> 第二学期 </h2></summary>
+<details id=3><summary><h2> Semester 2 </h2></summary>
 
 </details>
 
 
 
-<details id=3><summary><h2> 第三学期 </h2></summary>
+<details id=3><summary><h2> Semester 3</h2></summary>
 
 
 
