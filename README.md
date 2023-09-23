@@ -10,23 +10,23 @@
 <details id=2 open>
 <summary><h2> 第一学期 </h2></summary>
 
-### 拉丁语
+### Ķīmi1100: Chemistry for medical students
 
 1. ccc
 2. 
   
   
-### 心理学
+### Medi1052-EN : Introduction to Medicine Studies
 
-### 社会和文化学
+### Medi2089 : Human Anatomy I
 
-### 医学介绍
+### MediP011 : Introduction to Cell Biology
 
-### 化学
+### SDSK1017 : Medical Latin
 
-### 细胞学
+### Medi1135-EN : Economic, social, cultural and organisational aspects of health care
 
-### 解刨学
+### Valo1446 : Professional foreign language (Latvian) for doctors I
 
 </details>
 
