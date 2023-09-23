@@ -9,7 +9,7 @@
 
 1. Independent study of compulsory reading
 2. To present one psychological( ego) defence mechanism ( from G. Vailant's “ Ego adaptation” or other sources, available in the Library), present it in a small group.
-3. To find one adaptive example of defense mechanism and maladaptive expression, preferably, in medical situation. Discuss it in small groups to prepare a presentation. Present it in practical class
+3. To find one adaptive example of defence mechanism and maladaptive expression, preferably, in medical situation. Discuss it in small groups to prepare a presentation. Present it in practical class
 
 
 **The final assessment for the course consists of
