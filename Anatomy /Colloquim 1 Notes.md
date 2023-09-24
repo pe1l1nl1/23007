@@ -1,4 +1,4 @@
-
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/b237bb0e-9fb8-4acb-a417-aef328d37c2e)
 <details id=2 open>
 <summary><h2> Vertebrae </h2></summary>
 
@@ -156,5 +156,10 @@ Nivelside eli ligamentti (lat. ligamentum) on säikeinen, runsaasti kollageenia 
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/d8e1c609-0e42-4ac8-90a4-d7b42d0c8e79" alt="alt text" width="400" height="400">
 
-   
 </details>
+
+
+<details id=3 open>
+<summary><h2>Sternocostal Joints</h2></summary>
+<img src="https://github.com/pe1l1nl1/23007/assets/19546253/d1ff6388-255b-4e43-a9c8-b4fe41d94fa7" alt="alt text" width="400" height="400">
+
