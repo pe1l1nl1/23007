@@ -40,7 +40,6 @@ In the cervical vertebral column, the articular processes collectively form the 
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/f39c9223-2071-4acc-9978-db0d66a612cf" alt="alt text" width="400" height="400">
 
-
 </details>
 
 <detials id=2 open>
@@ -84,16 +83,52 @@ Limits hyperflexion (motion/movement) of the neck. Provides an attachment for tr
 ### Bones Come Together: Types of Joints in the Human Body. 
 
 - Fibrous (No Movement)
-- Synovial (Full Movement>
-- Cartilaginous (Some Movement) 
-- Joints are categorised by **joint function** and **structure**
-- 
+- Synovial (Full Movement)
+- Cartilaginous (Some Movement)
+
+### Joints are categorised by joint function and structure
+
+- Joint: Skull Sutures -> Range of Motion and Material: Immovable fibrous joints
+- Joint: Knee -> Range of Motion and Material: Full movement synovial capsule hinge joint
+- Joint: Vertebrae -> Range of Motion and Material: Some movement cartilaginous joint
+
+
+### Joints can be grouped by their function into 3 Ranges of Motion 
+
+- Synarthrosis (Immovable)
+- Amphiathrosis (Little Movement)
+- Diarthrosis (Full Movement)
+
+#### Type of Joint Function
+- Synarthrosis (range of joint motion: no movement) e.g. Skull sutures, articulations of bony sockets and teeth in facial skeleton
+- Amphiarthrosis (range of joint motion: little movement) e.g. distal joint between the tibia and the fibula and the pubic symphysis
+- Diarthrosis (range of joint motion full movement) e.g. elbow, shoulder, ankle
+
+
+### Joints can be grouped by their structure into Fibrous, Cartilaginous, and Synovial Joints 
+
+#### Fibrous Joints
+- Sutures
+- Gomphoses
+- Syndemosis
+
+#### Cartilaginous Joints
+- Synchrondosis
+- Symphysis
+<img src="https://github.com/pe1l1nl1/23007/assets/19546253/3fb6e27f-c285-42a4-a019-67e5f7ebabcc" alt="alt text" width="400" height="400">
+
+
+#### Synovial Joints
+- **Gliding joints** move against each other on a single plane. Major gliding joints include the intervertebral joints and the bones of the wrists and ankles.
+-** Hinge** joints move on just one axis. These joints allow for flexion and extension. Major hinge joints include the elbow and finger joints.
+- A **pivot** joint provides rotation. At the top of the spine, the atlas and axis form a pivot joint that allows for rotation of the head.
+- A **condyloid** joint allows for circular motion, flexion, and extension. The wrist joint between the radius and the carpal bones is an example of a condyloid joint.
+- A **saddle joint** allows for flexion, extension, and other movements, but no rotation. In the hand, the thumb’s saddle joint (between the first metacarpal and the trapezium) lets the thumb cross over the palm, making it opposable.
+- The **ball-and-socket** joint is a freely moving joint that can rotate on any axis. The hip and shoulder joints are examples of ball and socket joints.
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/08da0f32-81fe-465c-81f4-065c9738b515" alt="alt text" width="400" height="400">
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/da2d8c67-d799-4036-b67d-983b51fe49f6" alt="alt text" width="400" height="400">
-
-
 
 </details>
 
