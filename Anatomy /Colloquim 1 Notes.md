@@ -203,8 +203,6 @@ Allows for free movement and has three** characteristics:
 **Suomeksi**
 Nivelside eli ligamentti (lat. ligamentum) on säikeinen, runsaasti kollageenia sisältävä sidekudos, **joka yhdistää kaksi nivelen muodostukseen osallistuvaa luuta toisiinsa ja pitää niveltä koossa**. Nivelside voi sijaita joko nivelpussissa tai sen ulko- tai sisäpuolella. Nivelside muistuttaa kehon jänteitä ja eroaa niistä lähinnä sijainniltaan, sillä toisin kuin nivelside, jänne yhdistää lihaksen ja luun.
 
-
-
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/5b8e33b2-c921-4035-b167-6712c5081ca8" alt="alt text" width="400" height="400">
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/9d5c6fac-efe7-4d62-b056-21d233d7f9eb" alt="alt text" width="400" height="400">
@@ -263,3 +261,18 @@ Nivelside eli ligamentti (lat. ligamentum) on säikeinen, runsaasti kollageenia 
 </details> 
 
 
+<details id=3 open>
+<summary><h2> Cranial and Vertebraes </h2></summary>
+
+### Atlanto occipital joints - Between Cranial and C1
+  ![image](https://github.com/pe1l1nl1/23007/assets/19546253/05f43792-bce1-42cc-a81e-920a04a725be)
+### Atlantoaxial joints- Between C1 and C2
+
+  ![image](https://github.com/pe1l1nl1/23007/assets/19546253/4e137e6e-34e1-4c3f-b109-ea95068eb83f)
+
+### Occipital Condyles
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/c1083983-03bf-4b6f-9123-9055fce49870)
+
+
+</details>
