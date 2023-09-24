@@ -117,9 +117,21 @@ Limits hyperflexion (motion/movement) of the neck. Provides an attachment for tr
 - Bones separated by a wedge or pad of fibrocartilage
 - intervertebral discs
 - connection between pubic bones
-
   
 **Diarthrosis s. juncture synovialis - discontinuous joints(Full Movement)**
+
+Allows for free movement and has three** characteristics: 
+1) Synovial membrane: a serous membrane that produces synovial fluid which reduces friction and absorbs shock.
+2) Articular cartilage
+3) Capsule: dense connective tissue covering the joint
+   
+- Articulation cylindrical (Ginglymus) - uniaxial joint. Flexion and extension (door hinge)
+- Articulatio coronoidea - uniaxial joint. rotational movement
+- Articulatio trochoidea - uniaxial joint. rotational movement (pivot)
+- Articulation ellipsoidea - biaxial joint. flexio, extensio, adductio, abductio (oval shaped)
+- Articulatio sellaris - biaxial joint. flexio, extensio, adductio, abductio (saddle)
+- Articulatio spheroidea - multiaxial joint. biaxial joint. flexio, extensio, adductio, abductio, rotatio (ball-and-socket) 
+- Articulatione plana - allows only gliding movement (plate) 
 
 #### Type of Joint Function
 - Synarthrosis (range of joint motion: no movement) e.g. Skull sutures, articulations of bony sockets and teeth in facial skeleton
