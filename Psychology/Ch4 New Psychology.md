@@ -1,3 +1,6 @@
+
+This is my speaker notes for the group presentation: 
+
 # Slide 1: Introduction
 
 Today, we delve into the lives and contributions of two influential figures in the history of psychology: Carl Stumpf and Oswald Külpe.
