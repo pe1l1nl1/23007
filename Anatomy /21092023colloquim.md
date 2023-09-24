@@ -9,8 +9,6 @@
 - Name structure walls of thoracic cavitae 
 - Rotation of head in which articulation 
 
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/a2e9c0b4-d74b-47bd-9351-155bfd94d54f)
-
 It seems like you have several questions related to various aspects of anatomy, especially regarding bone connections and structures. I'll do my best to address each of your points:
 
 # **Bone Given Identity - Connection:** This phrase is a bit unclear, but it appears to refer to identifying connections between different bones in the body.
