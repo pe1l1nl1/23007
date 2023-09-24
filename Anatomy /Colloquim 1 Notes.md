@@ -1,25 +1,26 @@
-1. What is the margo
-2. ligaments and membrane of the thorax, ribs
-3. skull and two axes, joints, ligaments, plane of movements
-   
+
 <details id=2 open>
 <summary><h2> Vertebrae </h2></summary>
 
-### C2 AXIS 
+### Cervicale C2 AXIS 
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/2d754513-d37b-4ecc-a863-dd786beecda0" alt="alt text" width="400" height="400">
-
 
 
 ### Thoracic Vertebrae to Rib (Costa) 
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/2f714192-80cb-45c0-aa61-04a5eadea8a5" alt="alt text" width="400" height="400">
 
+#### Thoracic Vertebrae 
+
+<img src="https://github.com/pe1l1nl1/23007/assets/19546253/42783045-682a-48dc-bf3e-4a01addefe33" alt="alt text" width="400" height="400">
+
+
 ### Lumbalis Vertebrae 
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/0592d37a-ecb5-45cb-8b26-4e56b860666c" alt="alt text" width="400" height="400">
 
-Processus Mamillaris only in Lumbalis 
+- Processus Mamillaris only in Lumbalis 
 </details>
 
 
@@ -45,14 +46,20 @@ In the cervical vertebral column, the articular processes collectively form the 
 <detials id=2 open>
 <summary><h2>Comparison of the Vetebraes</h2></summary>
 
+
+
+<img src="https://github.com/pe1l1nl1/23007/assets/19546253/7c384bb9-c634-457c-b6f0-4d9d7a5b3341" alt="alt text" width="700" height="400">
+
 <p float="left">
   <img src="/img1.png" width="300" />
   <img src="/img2.png" width="300" /> 
   <img src="/img3.png" width="300" />
 </p>
+</details>
 
 <details id=2 open>
 <summary><h2> Ligaments </h2></summary>
+
 
 ### Ligamentum Nuchae
 
@@ -94,7 +101,6 @@ Limits hyperflexion (motion/movement) of the neck. Provides an attachment for tr
 
 
 ### Joints can be grouped by their function into 3 Ranges of Motion 
-
 - Synarthrosis (Immovable)
 - Amphiathrosis (Little Movement)
 - Diarthrosis (Full Movement)
@@ -139,12 +145,11 @@ Limits hyperflexion (motion/movement) of the neck. Provides an attachment for tr
 **Suomeksi**
 Nivelside eli ligamentti (lat. ligamentum) on säikeinen, runsaasti kollageenia sisältävä sidekudos, **joka yhdistää kaksi nivelen muodostukseen osallistuvaa luuta toisiinsa ja pitää niveltä koossa**. Nivelside voi sijaita joko nivelpussissa tai sen ulko- tai sisäpuolella. Nivelside muistuttaa kehon jänteitä ja eroaa niistä lähinnä sijainniltaan, sillä toisin kuin nivelside, jänne yhdistää lihaksen ja luun.
 
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/5b8e33b2-c921-4035-b167-6712c5081ca8)
+<img src="https://github.com/pe1l1nl1/23007/assets/19546253/5b8e33b2-c921-4035-b167-6712c5081ca8" alt="alt text" width="400" height="400">
 
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/9d5c6fac-efe7-4d62-b056-21d233d7f9eb)
+<img src="https://github.com/pe1l1nl1/23007/assets/19546253/9d5c6fac-efe7-4d62-b056-21d233d7f9eb" alt="alt text" width="400" height="400">
 
-
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/d8e1c609-0e42-4ac8-90a4-d7b42d0c8e79)
+<img src="https://github.com/pe1l1nl1/23007/assets/19546253/d8e1c609-0e42-4ac8-90a4-d7b42d0c8e79" alt="alt text" width="400" height="400">
 
    
 </details>
