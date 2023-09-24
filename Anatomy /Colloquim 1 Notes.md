@@ -1,10 +1,15 @@
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/b237bb0e-9fb8-4acb-a417-aef328d37c2e)
 <details id=2 open>
 <summary><h2> Vertebrae </h2></summary>
 
 ### Cervicale C2 AXIS 
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/2d754513-d37b-4ecc-a863-dd786beecda0" alt="alt text" width="400" height="400">
+
+### What does the cervical spine do? 
+
+- Protecting your spinal cord (The nerves of your spinal cord pass through a large hole (called the vertebral foramen) that passes through the centre of all of your vertebrae — from the base of your skull through the cervical vertebrae, the thoracic (middle back) vertebrae and ending between the first and second lumbar (lower back) vertebrae. Taken together, all the stacked vertebrae of your spine form a protective central canal that protects your spinal cord.) 
+- Supporting your head and allowing movement (Your cervical spine supports the weight of your head (average weight of 10 to 13 pounds). It also allows your head and neck to tilt forward (flexion), backwards (extension), turn from side to side (rotation) or bend to one side (ear-to-shoulder; lateral flexion).) 
+- Providing a safe passageway for vertebral arteries (Small holes in cervical spine vertebrae C1 to C6 provide a protective pathway for vertebral arteries to carry blood to your brain. This is the only section of vertebrae in the entire spine that contains holes in the bone to allow arteries to pass through.)
 
 
 ### Thoracic Vertebrae to Rib (Costa) 
@@ -16,17 +21,14 @@
 - Synchondroses: synchondrosis manubriosternalis, synchondrosis costae primae
 - Diarthrosis: Artt. constovertebrale, Art. sternocostales
 
-  
-  
-
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/42783045-682a-48dc-bf3e-4a01addefe33" alt="alt text" width="400" height="400">
-
 
 ### Lumbalis Vertebrae 
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/0592d37a-ecb5-45cb-8b26-4e56b860666c" alt="alt text" width="400" height="400">
 
-- Processus Mamillaris only in Lumbalis 
+- Processus Mamillaris only in Lumbalis
+  
 </details>
 
 
@@ -106,9 +108,18 @@ Limits hyperflexion (motion/movement) of the neck. Provides an attachment for tr
 
 
 ### Joints can be grouped by their function into 3 Ranges of Motion 
-- Synarthrosis (Immovable)
-- Amphiathrosis (Little Movement)
-- Diarthrosis (Full Movement)
+
+**Synarthrosis - continuous joints (Immovable)**
+**Hemiarthrosis (janne's book)  - transitional joint Amphiathrosis (Little Movement)**
+- 1. Syndemosis (desmos= ligament)
+- Bones connected by ligaments, e.g. between tibia and fibula
+- 2. Symphysis
+- Bones separated by a wedge or pad of fibrocartilage
+- intervertebral discs
+- connection between pubic bones
+
+  
+**Diarthrosis s. juncture synovialis - discontinuous joints(Full Movement)**
 
 #### Type of Joint Function
 - Synarthrosis (range of joint motion: no movement) e.g. Skull sutures, articulations of bony sockets and teeth in facial skeleton
@@ -132,7 +143,7 @@ Limits hyperflexion (motion/movement) of the neck. Provides an attachment for tr
 #### Synovial Joints
 - **Gliding joints** move against each other on a single plane. Major gliding joints include the intervertebral joints and the bones of the wrists and ankles.
 -** Hinge** joints move on just one axis. These joints allow for flexion and extension. Major hinge joints include the elbow and finger joints.
-- A **pivot** joint provides rotation. At the top of the spine, the atlas and axis form a pivot joint that allows for rotation of the head.
+- A **pivot** joint provides rotation. At the top of the spine, the C1 atlas and C2 axis form a pivot joint that allows for rotation of the head.
 - A **condyloid** joint allows for circular motion, flexion, and extension. The wrist joint between the radius and the carpal bones is an example of a condyloid joint.
 - A **saddle joint** allows for flexion, extension, and other movements, but no rotation. In the hand, the thumb’s saddle joint (between the first metacarpal and the trapezium) lets the thumb cross over the palm, making it opposable.
 - The **ball-and-socket** joint is a freely moving joint that can rotate on any axis. The hip and shoulder joints are examples of ball and socket joints.
@@ -160,6 +171,55 @@ Nivelside eli ligamentti (lat. ligamentum) on säikeinen, runsaasti kollageenia 
 
 
 <details id=3 open>
-<summary><h2>Sternocostal Joints</h2></summary>
+<summary><h2>Thorax</h2></summary>
+
+
+### The Thorax Structure
+
+- Bony-cartilaginous cage
+- Formed by ribs and cartilages
+- Sternum
+- Thoracic vertebrae
+- 7 true ribs
+- 5 false ribs
+- 2 floating ribs
+
+### Ribs 
+- Articular surface
+- Tubercle
+- Shape
+- All but the lowest two articulate with the sternum 
+
+**1st, 10-12th ribs articulate with one vertebrae, all others articulate with two adjacent vertebrae, nonaxial: permits slight gliding**
+
+**Excepts ribs 11 & 12**
+
+### Sternum 
+
+<img src="https://github.com/pe1l1nl1/23007/assets/19546253/4448d9a2-c96c-4cff-a685-a00413f8e338" alt="alt text" width="400" height="400">
+
+<img src="https://github.com/pe1l1nl1/23007/assets/19546253/98fa70e8-d999-44ad-aa33-691346de3fe2" alt="alt text" width="400" height="400">
+
+### Sternocostal Joints 
+
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/d1ff6388-255b-4e43-a9c8-b4fe41d94fa7" alt="alt text" width="400" height="400">
+
+
+###  Muscles with Primary Function in Respiration 
+
+**Diaphragm **
+- Dome-shaped sheet between thoracic and abdominal cavities
+- Function: inspiration
+
+**Internal Intercostales**
+- Between ribs in downward & backward slant of fibre
+- Function: expiration
+  
+**External Intercostales**
+- Downward and forward slant of fibres
+- Function: inspiration
+
+
+</details> 
+
 
