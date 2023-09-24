@@ -23,6 +23,9 @@
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/42783045-682a-48dc-bf3e-4a01addefe33" alt="alt text" width="400" height="400">
 
+<img width="593" height="400" alt="Screenshot 2023-09-24 at 17 44 31" src="https://github.com/pe1l1nl1/23007/assets/19546253/99bdcd13-29b3-4ee7-b7a9-7d9c58a615ea">
+
+
 ### Lumbalis Vertebrae 
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/0592d37a-ecb5-45cb-8b26-4e56b860666c" alt="alt text" width="400" height="400">
@@ -50,16 +53,10 @@ In the cervical vertebral column, the articular processes collectively form the 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/f39c9223-2071-4acc-9978-db0d66a612cf" alt="alt text" width="400" height="400">
 </details>
 
-<detials id=2 open>
-<summary><h2> Comparison of the Vertebraes</h2></summary>
+<details id=2 open>
+<summary><h2>Comparison of the Vertebraes</h2></summary>
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/7c384bb9-c634-457c-b6f0-4d9d7a5b3341" alt="alt text" width="700" height="400">
-
-<p float="left">
-  <img src="/img1.png" width="300" />
-  <img src="/img2.png" width="300" /> 
-  <img src="/img3.png" width="300" />
-</p>
 
 </details>
 
@@ -81,11 +78,45 @@ From occipital bone to spinous process of C7.
 **Function** 
 Limits hyperflexion (motion/movement) of the neck. Provides an attachment for trapezius and splenius capitis. 
 
-
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/448e476d-b489-483c-809f-36665a0f75ff" alt="alt text" width="400" height="400">
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/249e4ce2-1cc0-4ffd-af1e-cf9952a3033f" alt="alt text" width="400" height="400">
 
+### Ligamenta columna vertebralis 
+
+#### Ligamenta Longa 
+- Ligamentum longitudinale anterius: from arcus anterior C1 to facies pelvica ossis sacri
+- Ligamentum longitudinale posterius: from corpus vertera axis with membrane tectoria to os sacrum
+- Ligamentum supraspinale: from processus spinosus C7 to os sacrum
+  
+
+#### Ligamenta brevia 
+- Ligamenta flava: connect the laminae of adjacent vertebra from C2 along columna vertebralis
+- Ligamenta intertransversaria: between two processus transversus
+- Ligamenta interspinalia: between processus spinosus
+
+
+#### Articularis costotransversaria 
+- Facis articularis tuberculi costae
+- Fovea costalis processus transversalis
+-> Lig. costotransversarium laterale et superius
+
+<img src="https://github.com/pe1l1nl1/23007/assets/19546253/53e0dcad-a063-48c5-b716-323396adf1b4" alt="alt text" width="400" height="400">
+
+
+#### Articularis capitis costae 
+- Facies articularis capitis costae
+- Fovea costalis superior
+- Fovea costalis inferior
+-> Lig. capitis costae radiatum
+
+  <img src="https://github.com/pe1l1nl1/23007/assets/19546253/0868414c-7685-4a4a-ab59-5a3119b205aa" alt="alt text" width="400" height="400">
+
+
+
+#### Capsula articularis strength facies articularis superior and inferior 
+
+  
 </details>
 
 
@@ -110,7 +141,7 @@ Limits hyperflexion (motion/movement) of the neck. Provides an attachment for tr
 ### Joints can be grouped by their function into 3 Ranges of Motion 
 
 **Synarthrosis - continuous joints (Immovable)**
-**Hemiarthrosis (janne's book)  - transitional joint Amphiathrosis (Little Movement)**
+**Hemiarthrosis (Janne's book)  - transitional joint Amphiathrosis (Little Movement)**
 - 1. Syndemosis (desmos= ligament)
 - Bones connected by ligaments, e.g. between tibia and fibula
 - 2. Symphysis
@@ -137,7 +168,6 @@ Allows for free movement and has three** characteristics:
 - Synarthrosis (range of joint motion: no movement) e.g. Skull sutures, articulations of bony sockets and teeth in facial skeleton
 - Amphiarthrosis (range of joint motion: little movement) e.g. distal joint between the tibia and the fibula and the pubic symphysis
 - Diarthrosis (range of joint motion full movement) e.g. elbow, shoulder, ankle
-
 
 ### Joints can be grouped by their structure into Fibrous, Cartilaginous, and Synovial Joints 
 
@@ -173,11 +203,13 @@ Allows for free movement and has three** characteristics:
 **Suomeksi**
 Nivelside eli ligamentti (lat. ligamentum) on säikeinen, runsaasti kollageenia sisältävä sidekudos, **joka yhdistää kaksi nivelen muodostukseen osallistuvaa luuta toisiinsa ja pitää niveltä koossa**. Nivelside voi sijaita joko nivelpussissa tai sen ulko- tai sisäpuolella. Nivelside muistuttaa kehon jänteitä ja eroaa niistä lähinnä sijainniltaan, sillä toisin kuin nivelside, jänne yhdistää lihaksen ja luun.
 
+
+
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/5b8e33b2-c921-4035-b167-6712c5081ca8" alt="alt text" width="400" height="400">
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/9d5c6fac-efe7-4d62-b056-21d233d7f9eb" alt="alt text" width="400" height="400">
 
-<img src="https://github.com/pe1l1nl1/23007/assets/19546253/d8e1c609-0e42-4ac8-90a4-d7b42d0c8e79" alt="alt text" width="400" height="400">
+<img src="https://github.com/pe1l1nl1/23007/assets/19546253/d8e1c609-0e42-4ac8-90a4-d7b42d0c8e79" alt="alt text" width="600" height="700">
 
 </details>
 
@@ -216,20 +248,16 @@ Nivelside eli ligamentti (lat. ligamentum) on säikeinen, runsaasti kollageenia 
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/d1ff6388-255b-4e43-a9c8-b4fe41d94fa7" alt="alt text" width="400" height="400">
 
+### Ribs 
 
-###  Muscles with Primary Function in Respiration 
-
-**Diaphragm **
-- Dome-shaped sheet between thoracic and abdominal cavities
-- Function: inspiration
-
-**Internal Intercostales**
-- Between ribs in downward & backward slant of fibre
-- Function: expiration
+<p float="left">
+  <img src="https://github.com/pe1l1nl1/23007/assets/19546253/2ed2f2a0-69be-4445-972b-1087bb26a4ee" width="300" />
+  <img src="https://github.com/pe1l1nl1/23007/assets/19546253/c87dbffe-5199-4b8c-9905-43c173e8d2db" width="300" /> 
+  <img src="https://github.com/pe1l1nl1/23007/assets/19546253/51427187-e7ce-4860-bfd5-421a5dfb230e" width="300" />
+   <img src="https://github.com/pe1l1nl1/23007/assets/19546253/fd98c66d-588e-48f1-8531-7ee28010e875" width="300" />
   
-**External Intercostales**
-- Downward and forward slant of fibres
-- Function: inspiration
+</p>
+
 
 
 </details> 
