@@ -11,7 +11,13 @@
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/2f714192-80cb-45c0-aa61-04a5eadea8a5" alt="alt text" width="400" height="400">
 
-#### Thoracic Vertebrae 
+#### Thoracic Vertebrae - Thoracic Joints
+- Syndesmoses: membranae intercostales externa, membranae intercostales internae
+- Synchondroses: synchondrosis manubriosternalis, synchondrosis costae primae
+- Diarthrosis: Artt. constovertebrale, Art. sternocostales
+
+  
+  
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/42783045-682a-48dc-bf3e-4a01addefe33" alt="alt text" width="400" height="400">
 
@@ -40,13 +46,10 @@ In the cervical vertebral column, the articular processes collectively form the 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/b315140b-1797-4d2c-80c5-c59945b14fae" alt="alt text" width="400" height="400">
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/f39c9223-2071-4acc-9978-db0d66a612cf" alt="alt text" width="400" height="400">
-
 </details>
 
 <detials id=2 open>
-<summary><h2>Comparison of the Vetebraes</h2></summary>
-
-
+<summary><h2> Comparison of the Vertebraes</h2></summary>
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/7c384bb9-c634-457c-b6f0-4d9d7a5b3341" alt="alt text" width="700" height="400">
 
@@ -55,6 +58,7 @@ In the cervical vertebral column, the articular processes collectively form the 
   <img src="/img2.png" width="300" /> 
   <img src="/img3.png" width="300" />
 </p>
+
 </details>
 
 <details id=2 open>
@@ -68,6 +72,7 @@ The ligamentum nuchae is continuous with the **supraspinous ligament**. It forms
 
 **Origin**
 The external occipital protuberance. The deep fibres of the ligament attach to the external occipital crest and the posterior tubercle of the atlas. It also blends into the posterior atlanto-occipital membrane and the posterior atlanto-axial membrane.
+
 **Insertion**
 From occipital bone to spinous process of C7.
 
