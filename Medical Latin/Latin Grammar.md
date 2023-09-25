@@ -28,3 +28,7 @@ Verbs
 3. vīvere (to live), addere (to add), sūmere (to use)
 4. nutrīre (to feed), dormīre (to sleep), sentīre (to feel)
 </details> 
+
+
+### Identify  the conjugation and base form of the verbs 
+
