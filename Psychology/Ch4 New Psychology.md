@@ -1,5 +1,5 @@
 <details id=2 open>
-<summary><h2> My Speaker notes  </h2></summary>
+<summary><h2> Speaker Notes  </h2></summary>
 
 </detail> 
 
