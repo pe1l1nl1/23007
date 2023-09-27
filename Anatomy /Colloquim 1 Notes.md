@@ -1,6 +1,15 @@
 <details id=2 open>
-<summary><h2> Vertebrae </h2></summary>
+<summary><h2> Typical and atypical Vertebraes </h2></summary>
 
+  <img width="675" alt="Screenshot 2023-09-27 at 09 01 03" src="https://github.com/pe1l1nl1/23007/assets/19546253/6df1e7d0-cf98-46d8-ac20-b4b18bd6f119">
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/ff8e6c41-db62-4896-961c-05dbea4ca590)
+
+
+</details>
+
+<details id=2 open>
+<summary><h2> Vertebrae </h2></summary>
 ### Cervicale C2 AXIS 
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/2d754513-d37b-4ecc-a863-dd786beecda0" alt="alt text" width="400" height="400">
