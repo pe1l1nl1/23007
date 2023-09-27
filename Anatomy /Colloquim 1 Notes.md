@@ -31,6 +31,9 @@
 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/2f714192-80cb-45c0-aa61-04a5eadea8a5" alt="alt text" width="400" height="400">
 
+### Rib to Sternum 
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/a4527a5d-93c0-48ee-9114-51237c2fc9ae)
+
 #### Thoracic Vertebrae - Thoracic Joints
 - Syndesmoses: membranae intercostales externa, membranae intercostales internae
 - Synchondroses: synchondrosis manubriosternalis, synchondrosis costae primae
@@ -403,6 +406,12 @@ Capsula articularis strength facies articularis superior and inferior
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/551080c3-8fdc-4efd-aca4-e222475c693b)
 ### Atlas Fractures and Transverse Ligament  Injuries -Spine -Orthobullets
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/364fb876-040f-450f-b522-28f802f31de7)
+
+### Head to Atlas/ Axis Vertebrae 
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/58bac919-ecf4-47a8-9172-e06d4a3c3a7f)
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/d2e53bc5-5dfb-4db3-94cb-f3dafd9360ba)
+
 
 </details> 
 
