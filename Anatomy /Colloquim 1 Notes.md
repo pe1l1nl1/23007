@@ -387,7 +387,7 @@ Capsula articularis strength facies articularis superior and inferior
 - facies articularis superior atlas
 - condylus occipitalis
 - capsula articularis
-- membrana atlantooccipitalis andterior (between os occipitale and arcus anterior atlantis)
+- membrana atlantooccipitalis anterior (between os occipitale and arcus anterior atlantis)
 - membrana atlantooccipitalis posterior (between os occipitale and atlas at the posterior aspect of canalis vertebralis)
 
 ### Lig cruciform atlantis; composed of two ligaments
@@ -397,6 +397,12 @@ Capsula articularis strength facies articularis superior and inferior
 **lig apicis dentis** between apex dents and os occipitale, beneath lig cruciform atlantis
 **membrana tectoria** over all the ligaments of art. atlantoaxialis mediana, extension of the lig. longitudinale posterius
 
+
+### Cruciate ligament 
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/551080c3-8fdc-4efd-aca4-e222475c693b)
+### Atlas Fractures and Transverse Ligament  Injuries -Spine -Orthobullets
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/364fb876-040f-450f-b522-28f802f31de7)
 
 </details> 
 
