@@ -412,6 +412,10 @@ Capsula articularis strength facies articularis superior and inferior
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/58bac919-ecf4-47a8-9172-e06d4a3c3a7f)
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/d2e53bc5-5dfb-4db3-94cb-f3dafd9360ba)
 
+### 
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/2d955e3c-af31-43c4-b83a-c3064a1065f6)
+
 
 </details> 
 
