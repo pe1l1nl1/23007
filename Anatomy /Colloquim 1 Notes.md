@@ -1,5 +1,5 @@
 <details id=2 open>
-<summary><h2> Typical and atypical Vertebraes </h2></summary>
+<summary><h2>Typical and atypical Vertebraes</h2></summary>
 
   <img width="675" alt="Screenshot 2023-09-27 at 09 01 03" src="https://github.com/pe1l1nl1/23007/assets/19546253/6df1e7d0-cf98-46d8-ac20-b4b18bd6f119">
 
@@ -10,8 +10,13 @@
 
 <details id=2 open>
 <summary><h2> Vertebrae </h2></summary>
-### Cervicale C2 AXIS 
 
+  ### Vertebrae Cervicale 
+
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/63fbc5ea-76d5-42bc-bb29-1ea6a24dd30a)
+
+### Cervicale C2 AXIS 
 <img src="https://github.com/pe1l1nl1/23007/assets/19546253/2d754513-d37b-4ecc-a863-dd786beecda0" alt="alt text" width="400" height="400">
 
 ### What does the cervical spine do? 
@@ -283,5 +288,114 @@ Nivelside eli ligamentti (lat. ligamentum) on säikeinen, runsaasti kollageenia 
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/c1083983-03bf-4b6f-9123-9055fce49870)
 
-
 </details>
+
+
+<details id=4 open>
+<summary><h2> Ligamenta columna vertebralis</h2></summary>
+
+### Ligamenta longa （长的）
+- **Ligamentum longitudinales anterius:** from arcus anterior C1 to facies pelvica ossis sacri
+- **Ligamentum longitudinales posterius** from corpus vertebra axis with membrane tectoria to os sacrum
+- **Ligamentum supraspinale** from processus spinosus to C7 to os sacrum 
+
+### Ligamentum brevia (短的）
+- **Ligamenta flava** connect the laminae of adjacent vertebra from C2 along columna vertebralis
+- **Ligamenta intertransversaria** between two processus transversus
+- **Ligamenta interspinalia** between two processus spinosus
+
+### Art. costotransversaria 
+- facies articularis tuberculi costae
+- fovea costalis processus transversalis
+- lig. costotransversarium laterale et superius
+
+### Art. capitis costae 
+- facies articularis capitis costae
+- fovea costalis superios
+- fovea costalis inferior
+- lig. capitis costae radiatum
+
+Capsula articularis strength facies articularis superior and inferior 
+
+<p float="left">
+  <img src="https://github.com/pe1l1nl1/23007/assets/19546253/fdc340bc-fac5-40dc-b783-24abf51193be" width="300" />
+  <img src="https://github.com/pe1l1nl1/23007/assets/19546253/3d214f5b-9267-44c0-b7e9-6ba28add81ac" width="300" /> 
+</p>
+
+
+
+## Thorax 
+
+### Articulationes sternocostales 
+
+- Incisura costalis I - VII
+- cartilago costalis
+- I-VII directly connected
+- ligg. sternocostalis radiata
+- lig. sternocostale intraarticulare
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/ef77bab7-519a-4d00-b32f-1513a03992cd)
+
+
+### Articulationes costochondrales 
+
+- membrana intercostales externae
+- membrana intercostales internae
+- spatia intercostalia (space between the ribs)
+
+- Cavum thoracic (a chamber where the lungs are)
+- Arcus costales
+- Sulcus pulmonalis (a big groove/depression of the corpus vertebralis on the posterior side of the lung)
+- Angulus infraternalis  (angel between lower borders of cartilago costales as they approach corpus sterni
+
+
+<p float="left">
+  <img src="https://github.com/pe1l1nl1/23007/assets/19546253/4f3a7813-9b7e-4e0a-b39a-6ad00fc9fbf7" width="300" />
+   <img src="https://github.com/pe1l1nl1/23007/assets/19546253/d01d8619-e133-45e7-942a-9767a85f98fc" width="300"/>
+</p>
+
+
+
+### Apertura thoracis superior 
+- Posterior: corpus vertebrae thoracis T1
+- Lateral: Margo internus costae prima
+- Anterior: Cartilago costae prima, incisura jugularis manubrium sterni 
+### Apertura thoracis inferior 
+- Posterior: Corpus vertebrae thoracic T12
+- Lateral: Margo internus costae XI and XIII
+- Anterior: Cartilago costales VII - X, symphysis xiphosternalis (art. between proc. xiphoideus and corpus sterni)
+  
+
+## Ligamenta axis - atlas - os occipitale 
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/2402a2b3-4cb3-46b2-b395-6d28f2ba084f)
+
+### Art atlantoaxialis lateralis
+- Processus articularis superior axis
+- massa lateralis atlantis, facies articularis inferior atlas
+- capsula articularis 
+### Art atlantoaxialis mediana anterior
+- facies articularis anterior in dens axis
+- fovea dentis in atlas
+- capsula articularis 
+### Art artlantoxialis mediana posterior
+  (art. trochoidea = pivot)
+  - facies articularis posterior in dens axis
+  - lig transversum atlantis 
+### Art atlantooccipitalis (art.trochoidea = pivot)
+- facies articularis superior atlas
+- condylus occipitalis
+- capsula articularis
+- membrana atlantooccipitalis andterior (between os occipitale and arcus anterior atlantis)
+- membrana atlantooccipitalis posterior (between os occipitale and atlas at the posterior aspect of canalis vertebralis)
+
+### Lig cruciform atlantis; composed of two ligaments
+1. lig transversum atlantis (sideways behind dens axis)
+2. fasciculi longitudinales (two of these, above and below lig transversum atlantis)
+**Ligg alaria** winged ligaments from apex dentis, beneath lig cruciform atlantis
+**lig apicis dentis** between apex dents and os occipitale, beneath lig cruciform atlantis
+**membrana tectoria** over all the ligaments of art. atlantoaxialis mediana, extension of the lig. longitudinale posterius
+
+
+</details> 
+
