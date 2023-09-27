@@ -102,7 +102,7 @@ Limits hyperflexion (motion/movement) of the neck. Provides an attachment for tr
 - Ligamentum longitudinale anterius: from arcus anterior C1 to facies pelvica ossis sacri
 - Ligamentum longitudinale posterius: from corpus vertera axis with membrane tectoria to os sacrum
 - Ligamentum supraspinale: from processus spinosus C7 to os sacrum
-  
+- Ligamentum Nuchae: Occipital Bone to C7.
 
 #### Ligamenta brevia 
 - Ligamenta flava: connect the laminae of adjacent vertebra from C2 along columna vertebralis
