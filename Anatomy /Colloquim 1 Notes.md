@@ -299,14 +299,14 @@ Nivelside eli ligamentti (lat. ligamentum) on säikeinen, runsaasti kollageenia 
 <summary><h2> Ligamenta columna vertebralis</h2></summary>
 
 ### Ligamenta longa （长的）
-- **Ligamentum longitudinales anterius:** from arcus anterior C1 to facies pelvica ossis sacri
-- **Ligamentum longitudinales posterius** from corpus vertebra axis with membrane tectoria to os sacrum
-- **Ligamentum supraspinale** from processus spinosus to C7 to os sacrum 
+- **Ligamentum longitudinales anterius:** from arcus anterior C1 to facies pelvica ossis sacri promentorium
+- **Ligamentum longitudinales posterius** from corpus vertebra axis with membrane tectoria to os sacrum mediana 
+- **Ligamentum supraspinale** from processus spinosus to C7 to os sacrum mediana
 
 ### Ligamentum brevia (短的）
 - **Ligamenta flava** connect the laminae of adjacent vertebra from C2 along columna vertebralis
 - **Ligamenta intertransversaria** between two processus transversus
-- **Ligamenta interspinalia** between two processus spinosus
+- **Ligamenta interspinal** between two processus spinosus
 
 ### Art. costotransversaria 
 - facies articularis tuberculi costae
