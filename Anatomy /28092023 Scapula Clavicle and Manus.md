@@ -1,4 +1,4 @@
-# Scapula and Clavicle
+<details id= 1 0pen> <summary> <h1>Scapula and Clavicle</h1></summary>
 
 
 - 2 Syndesmosis  and 2 Diathrosis (2 ligaments)
@@ -19,6 +19,10 @@
 - Sternoclavicular anterior/ posterior 
 - Interclavicular 
 - Costaclavicular
+
+### Ligaments of the Shoulder joint
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/16595300-5e9f-401b-8c90-51c5e164adac)
 
 ### Scapula and Clavicle 
 
@@ -52,8 +56,11 @@
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/15da24f1-4c70-4df4-b626-e015f2197638)
 
+</details>
 
-# Manus 
+<details id=2 open> <summary><h1>Manus</h1></summary></details>
+
+
 
 ### Wrist to Manus - Joints and Ligaments
 
@@ -71,5 +78,5 @@
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/39bac5b6-3450-4771-942d-da8d3d5f2115)
 
 
-
+</details>
 
