@@ -1,17 +1,17 @@
 # Scapula and Clavicle
 
 
-### 2 Syndesmosis  and 2 Diathrosis (2 ligaments)
+- 2 Syndesmosis  and 2 Diathrosis (2 ligaments)
 
-### ligamentum transverses 
+- ligamentum transverses 
 
-# Articulation 
 
-### Articularis Sternoclavicularis 
+
+### Articulation - Articularis Sternoclavicularis 
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/21ca7a88-c3ba-4a3a-989c-8f48dd95760e)
 
-# Ligamentum 
+### Ligamentum 
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/1a91b633-55cd-40be-90a4-6ddd9fb11146)
 
@@ -20,37 +20,55 @@
 - Interclavicular 
 - Costaclavicular
 
-# Scapula and Clavicle 
+### Scapula and Clavicle 
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/ff93fc5a-2fff-4130-a069-c75c47a9bb95)
 
-# Lateral view of the scapula and clavicle with their ligaments
+### Lateral view of the scapula and clavicle with their ligaments
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/ef356a95-1935-475b-8666-8d186401be61)
 
-# Glenohumeral joint 
+### Glenohumeral joint 
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/fdd531cf-be2a-4da6-946a-9b7a8200b1aa)
 
-# Ligaments 
+### Ligaments 
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/40533daf-e04c-414c-9ac7-25f650e92f7d)
 
 
-# Joints Humerus Elbow
+### Joints Humerus Elbow
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/ab017266-3ade-4268-b7dd-780e0afe63e3)
 
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/7070dccd-2da1-4d46-9bba-95680630e63d)
 
-# Ligaments 
+### Ligaments 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/97accaec-c3c5-47ff-9da7-69d62fb1c253)
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/3dc4e94b-23fa-4a52-a5d2-75b6fa962505)
 
-# Wrist 
+### Wrist 
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/15da24f1-4c70-4df4-b626-e015f2197638)
+
+
+# Manus 
+
+### Wrist to Manus - Joints and Ligaments
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/0a90eb25-455d-4df7-ab75-9c01b0395e67)
+
+### Bones of Manus 
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/bb42ddbb-b1ce-4212-a3e8-f58db90e5260)
+
+### Joints and Ligaments of Manus
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/7e5eae40-3ba2-4727-a770-900393bea293)
+
+### Muscles and Tendons of Manus 
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/39bac5b6-3450-4771-942d-da8d3d5f2115)
 
 
 
