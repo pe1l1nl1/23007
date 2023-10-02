@@ -87,29 +87,29 @@
 - m. rhomboideus - rombinen - 菱形
 - m. serratus anterior - etuosa sahalaitainen - 前锯齿状
 
-<img width="342" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/b92f3a52-fe43-4741-b953-bf1f107423c5">
+<img width="450" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/b92f3a52-fe43-4741-b953-bf1f107423c5">
 
 
 ### by size
 
-m. teres major - 大圆肌
-m. teres minor - 小圆肌
-m. extensor pollicis longus  - 伸拇指长
-m. extensor pollicis brevis - 拇指短伸肌
-m. gluteus maximus
-m. gluteus minimus - pakaralihas 臀大肌
+- m. teres major - 大圆肌
+- m. teres minor - 小圆肌
+- m. extensor pollicis longus  - 伸拇指长
+- m. extensor pollicis brevis - 拇指短伸肌
+- m. gluteus maximus
+- m. gluteus minimus - pakaralihas 臀大肌
 
 
-<img width="470" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/b19dea70-7ac1-4116-b5c5-ee6db7c0d316">
+<img width="450" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/b19dea70-7ac1-4116-b5c5-ee6db7c0d316">
 
 ### by direction of fibres
 
-m. **rectus** femoris - suora reisi - 直大腿
-m. **transversus** abdominis - poikittainen vatsa - 横腹
-m. **obliquus** externus abdominis - ulkoinen vino vatsalihas - 腹外斜肌
+- m. **rectus** femoris - suora reisi - 直大腿
+- m. **transversus** abdominis - poikittainen vatsa - 横腹
+- m. **obliquus** externus abdominis - ulkoinen vino vatsalihas - 腹外斜肌
 
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/82c4eec2-8504-4d3b-821a-0c4cbfb46192)
 
+<img width="450" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/82c4eec2-8504-4d3b-821a-0c4cbfb46192">
 <img width="450" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/0fc2fc68-0012-4b54-ad22-14c2e2b463bd">
 
 ### by origin and insertion
@@ -117,18 +117,19 @@ m. **obliquus** externus abdominis - ulkoinen vino vatsalihas - 腹外斜肌
 - m. brachioradialis
 - m. sternocleidomastoideus
 
-<img width="619" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/884a8b20-61a7-442d-acc2-ac2067fd5e7d">
+<img width="450" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/884a8b20-61a7-442d-acc2-ac2067fd5e7d">
 - M. fusiformis
 - M. unipennatus 
 - M. bipennatus
 - M. multipennatus
+
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/fc37e501-f12d-4fb1-b9ae-91eeb0193bc3)
 
 - M. digastricus
 - M. biceps
 - M. triceps
 - M. quadriceps
-<img width="633" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/302d27bd-90b5-40a7-973b-eddfb60c75c5">
+<img width="450" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/302d27bd-90b5-40a7-973b-eddfb60c75c5">
 
 </details>
 
@@ -138,8 +139,8 @@ m. **obliquus** externus abdominis - ulkoinen vino vatsalihas - 腹外斜肌
 - m. unipennatus
 - m. bipennatus
 
-<img width="376" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/deebf7a1-3df9-4c5f-92cd-1b6e85ee52f8">
-<img width="312" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/652ce145-58cc-4178-bd42-255c5a0f17ad">
+<img width="450" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/deebf7a1-3df9-4c5f-92cd-1b6e85ee52f8">
+<img width="450" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/652ce145-58cc-4178-bd42-255c5a0f17ad">
 - Mm. flexores
 - Mm. extensores
 - Mm. abductores
@@ -153,8 +154,8 @@ m. **obliquus** externus abdominis - ulkoinen vino vatsalihas - 腹外斜肌
 
 ### Auxiliary features of muscles
 - Fasciae ( connective tissue coverings):
-     fascia superficialis,
-     fascia propria.
+     - fascia superficialis,
+     - fascia propria.
         - vagina fibrosa
         - vagina osteofibrosa (compartimentum)
 - Bursae synoviales
@@ -162,46 +163,48 @@ m. **obliquus** externus abdominis - ulkoinen vino vatsalihas - 腹外斜肌
 - Vaginae synoviales tendinum (tendon sheaths) 
 
 ### Fascia brachii
-Septum intermusculare med.
-Septum intermusculare lat.
-Vagina osteofibrosa
-m.bicipitis brachii 
-Vagina osteofibrosa flexorum
-Vagina osteofibrosa extensorum
+- Septum intermusculare med.
+- Septum intermusculare lat.
+- Vagina osteofibrosa
+- m.bicipitis brachii 
+- Vagina osteofibrosa flexorum
+- Vagina osteofibrosa extensorum
 
-<img width="405" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/a3d5b048-b2ab-4fd0-8f27-8c2d0f77e75a">
-Septum intermusculare med.
-Septum intermusculare lat.
-Vagina osteofibrosa
-m.bicipitis brachii 
-Vagina osteofibrosa flexorum
-Vagina osteofibrosa extensorum
+<img width="450" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/a3d5b048-b2ab-4fd0-8f27-8c2d0f77e75a">
 
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/a96b5951-faea-4253-8c8f-72421957d7cc)
+- Septum intermusculare med.
+- Septum intermusculare lat.
+- Vagina osteofibrosa
+- m.bicipitis brachii 
+- Vagina osteofibrosa flexorum
+- Vagina osteofibrosa extensorum
 
+
+<img width = "450" src= "https://github.com/pe1l1nl1/23007/assets/19546253/a96b5951-faea-4253-8c8f-72421957d7cc">
 
 ### Bursae synoviales
 
-<img width="663" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/3a965119-0372-40bf-bdc8-49fbff3c6e75">
+<img width="450" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/3a965119-0372-40bf-bdc8-49fbff3c6e75">
 
 
 **Bursae art. genus**
 
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/0ac4f4ab-b756-45e5-9411-e55aa855159d)
+
+<img width = "450" src= "https://github.com/pe1l1nl1/23007/assets/19546253/0ac4f4ab-b756-45e5-9411-e55aa855159d">
 
 **Bursitis**
 
-<img width="272" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/385a5e72-9a37-45de-840b-33753ab603d3">
+<img width="450" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/385a5e72-9a37-45de-840b-33753ab603d3">
 
 ### Vaginae synoviales
 
-<img width="624" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/015995d2-f376-4354-8eb2-8d5b458435fb">
+<img width="450" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/015995d2-f376-4354-8eb2-8d5b458435fb">
 
 
 ### Tendovaginitis
 
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/f3837556-72ba-40ef-881d-bbdcd0906492)
+<img width = "450" src= "https://github.com/pe1l1nl1/23007/assets/19546253/f3837556-72ba-40ef-881d-bbdcd0906492">
 
-<img width="396" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/d94377f5-0784-479e-a5bc-179c39c12693">
+<img width="450" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/d94377f5-0784-479e-a5bc-179c39c12693">
 
 </details>
