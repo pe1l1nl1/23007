@@ -55,4 +55,106 @@ re
 - infunde - infundite
 - solve - solvite
 
+### Imperativus with negation 
+
+- Noli + infinite form (2nd persons sg)
+- Noli legere - do not read / **ne**lasi
+- Noli cantare - do not sing/ **ne**dziedi
+
+- Noli + infinitive form (2nd person pl.)
+- Nolite legere! -  do not read (pl) / **ne** lasiet
+- Nolite cantare - do not sing (pl) / **ne**daziediet
+
+# Make imperative forms with negation 
+- Noli filtrare (sg) Nolite filtrate  (pl)
+- Noli monstrare (sg) Nolite monstrare (pl) 
+- Noli repetere
+- Noli addere
+- Noli audire
+- Noli recipere
+- Noli debere
+- Noli coquere
+- Noli curare
+- Noli finire
+- Noli infundere
+- Noli solvere 
+
+### Personal endings 
+- ō (1st person sg
+- s (2nd person sg
+- t (3rd person sg
+- mus (1st person pl
+- tis (2nd person pl
+- nt (3rd person pl
+  
+### How to conjugate the 1st conugation verbs?
+
+- **da**/re 
+- **labora**/re
+- **agita**/re
+
+- habeo
+- habes
+- habet
+- habemus
+- habetis
+- habent
+
+- doceo
+- doces
+- docet
+- docemus
+- docetis
+- docent
+
+### How to conjugate the 2nd conugation verbs? 
+
+- videre (to see)
+
+- vide + o = video (I see)
+- vides ( you see) 
+- videt ( he, she, it sees) 
+- videmus ( we see)
+- videtis ( you see )
+- vident ( they see)
+
+
+### How to conjugate the 3rd conugation verbs? 
+
+- scrib + o = scribo
+- scribis
+- scribit
+- scribimus
+- scribitis
+- scribunt
+
+
+### How to conjugate the 4th conugation verbs? 
+
+- audire
+- audi + o = audio
+- audis
+- audit
+- audimus
+- auditis
+- audiunt
+
+- dormire
+- dormi + o 
+- dormis
+- dormit
+- dormimus
+- dormitis
+- dormiunt
+
+- finire
+- fini + o
+- finis
+- finit
+- finimus
+- finitis
+- finiunt
+
+  
+
 
