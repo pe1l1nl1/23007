@@ -131,7 +131,7 @@ re
 
 ### How to conjugate the 4th conugation verbs? 
 
-- audire
+**- audire**
 - audi + o = audio
 - audis
 - audit
@@ -139,7 +139,7 @@ re
 - auditis
 - audiunt
 
-- dormire
+**- dormire**
 - dormi + o 
 - dormis
 - dormit
@@ -147,7 +147,7 @@ re
 - dormitis
 - dormiunt
 
-- finire
+**- finire**
 - fini + o
 - finis
 - finit
@@ -156,5 +156,28 @@ re
 - finiunt
 
   
+### Translate 
 
+- Aegrotusmaledormit.
+- Aegrotusbenedormit.
+- Dumspiro, spero.
+- Contravenenamediciantidotaadhibent.
+- Solveinaquacrystallosacidiborici!
+- Ulnaetradiusantebrachiumformant.
+- Alvusplenasaepeestcausamorbi.
+- Daaquamaegrotis!
+- Daintabulettis!
+- Collegafracturamcostarumhabet.
+- Papillaelinguamtegunt.
 
+- The patient sleeps badly.
+- The patient sleeps well.
+- Dumspir, I hope.
+- They use anti-venom medicines.
+- Solveinaquacrystallosacidiboric!
+- Ulnaetradiusanteformant arm.
+- Abdominal inflammation is the cause of the disease.
+- Daaquamaegrotis!
+- Daintabulettis!
+- A colleague has fractured ribs.
+- The nipples cover the tongue.
