@@ -61,6 +61,13 @@
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/3dc4e94b-23fa-4a52-a5d2-75b6fa962505)
 
+
+### Radius  and Radii 
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/9ad51abb-d756-486e-b746-34784b977b89)
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/810a4c4d-ca09-4aa9-b2f1-8f9bb116e431)
+
+
 ### Wrist 
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/15da24f1-4c70-4df4-b626-e015f2197638)
