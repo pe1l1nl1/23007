@@ -87,7 +87,13 @@
 
 ### Joints and Ligaments of Manus
 
+
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/7e5eae40-3ba2-4727-a770-900393bea293)
+
+
+### Articulatio of Manus 
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/3745ef01-ce75-427d-9675-bafe7ebb9d25)
 
 ### Muscles and Tendons of Manus 
 
