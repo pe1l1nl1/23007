@@ -1,3 +1,12 @@
+
+
+<details id= 1 open> <summary><h2>Scapula Hummerus Manus </h2></summary>
+  
+  
+  ![image](https://github.com/pe1l1nl1/23007/assets/19546253/5caedd29-4cff-496c-8c29-af0e775907a8)
+
+</details> 
+
 <details id= 1 0pen> <summary> <h1>Scapula and Clavicle</h1></summary>
 
 
