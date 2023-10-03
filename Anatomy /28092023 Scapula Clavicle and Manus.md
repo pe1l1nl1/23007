@@ -99,6 +99,10 @@
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/39bac5b6-3450-4771-942d-da8d3d5f2115)
 
+### Joint movement 
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/2d3b7625-35d3-40b6-b366-eb5758c17ed1)
+
 
 </details>
 
