@@ -27,8 +27,14 @@ Mes dzivojam Riga (Riga).
 3. Vai Janis Kalnins, strada universitate? Ne, vins tagad strada universitare. Vins strada skola.
 4. Kur tagad strada Anna Bumane? Vina tagad strada kafejnica.
 
-2.4 Ieraksti a vai ā?
-Māra strādā Bauskā.
 
 
+# LaipaA1.pdf 
+
+2.3 Raksti vardus *dzivojat, dzivo, dzivojam, dzivoju, nedzivo, nedzivojam, nestrada, nestradaju, strada, stradaju, studejat, studeju*!
+
+1. Vai Natalija dzivo pilseta? Ne, vina dzivo pilseta.
+2. Kur jus studejat? Es studeju Riga, universitate.
+3. Vai just dzivojat Vacija? Ne, mes vairs (anymore)  dzivojam  Vacija. Mes tagad dzivojam Latvija. Janis dzivo banka, bet es stradaju skola.
+4. Vai tu vairs strada biblioteka? Ne, es vairs stradaju biblioteka. 
    
