@@ -23,7 +23,7 @@ Mes dzivojam Riga (Riga).
 
 1. Vai jus stradajat policija? Ja, mes tagad (right now)  stradajam policija.
 2. Mes tagad stradajam slimnica (hospital). Vai tu ari strada slimnica.
-   Ne, es pasreiz stradaju slimnica.
+   Ne, es pasreiz (synonym as tagad = rn)  stradaju slimnica.
 3. Vai Janis Kalnins, strada universitate? Ne, vins tagad strada universitare. Vins strada skola.
 4. Kur tagad strada Anna Bumane? Vina tagad strada kafejnica.
 
