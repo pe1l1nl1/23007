@@ -1,4 +1,4 @@
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/9291ba79-7112-4cfc-91a0-ffca752ef83e)
+
 ### Epithelia 
 
 Questions for the next class:
