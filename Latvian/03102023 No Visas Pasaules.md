@@ -28,13 +28,19 @@ Mes dzivojam Riga (Riga).
 4. Kur tagad strada Anna Bumane? Vina tagad strada kafejnica.
 
 
-
-# LaipaA1.pdf 
+### LaipaA1.pdf exercise page 21.
 
 2.3 Raksti vardus *dzivojat, dzivo, dzivojam, dzivoju, nedzivo, nedzivojam, nestrada, nestradaju, strada, stradaju, studejat, studeju*!
 
 1. Vai Natalija dzivo pilseta? Ne, vina dzivo pilseta.
 2. Kur jus studejat? Es studeju Riga, universitate.
 3. Vai just dzivojat Vacija? Ne, mes vairs (anymore)  dzivojam  Vacija. Mes tagad dzivojam Latvija. Janis dzivo banka, bet es stradaju skola.
-4. Vai tu vairs strada biblioteka? Ne, es vairs stradaju biblioteka. 
-   
+4. Vai tu vairs strada biblioteka? Ne, es vairs stradaju biblioteka.
+
+
+### 2.C Valtis, tautibas un valodas
+
+Es runaju latviski. (I speak Latvian) / Es ne runaju latviski (I don't speak Latvian).
+
+mazliet = nedaudz (a little bit) 
+
