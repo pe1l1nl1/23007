@@ -7,7 +7,7 @@
 
 </details> 
 
-<details id= 1 0pen> <summary> <h1>Scapula and Clavicle</h1></summary>
+<details id= 1 0pen> <summary> <h2>Scapula and Clavicle</h2></summary>
 
 
 - 2 Syndesmosis  and 2 Diathrosis (2 ligaments)
