@@ -74,7 +74,7 @@
 
 </details>
 
-<details id=2 open> <summary><h1>Manus</h1></summary></details>
+<details id=2 open> <summary><h2>Manus</h2></summary>
 
 
 
