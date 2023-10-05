@@ -3,9 +3,8 @@ Content: Clavicula, Scapula, Humerus, Ulna and Radius
 <details id= 1 open><summary><h2>Cingulum membri superioris s. cingulum pectorale</h2></summary>
 
 
-### Clacile 
+### Clavicula 
 ### Scapula 
-
 ### Synovial Joints or Diarthroses 
 
 
