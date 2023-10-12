@@ -3,10 +3,16 @@
 **Task 1. Understanding the complementarity principle.**
 1. a) Write down what would the complementary strand look like:
 DNA:
+
 - plus strand (leading): 5’ - TAC TAC GGT AGG TAT ACC TTG - 3’  (template)
 - minus strand (lagging): 3’ - ATG ATG CCA TCC ATA TGG AAC - 5‘ (coding)
 
 ```text
+
+- Watson = Sense = Plus Strands = Template strand
+- Crick = Antisense = Negative Strands = Coding strand
+
+The strand names actually depend on which direction you are writing the sequence that contains the information for proteins (the "sense" information), not on which strand is on the top or bottom (that is arbitrary). The only real biological information that is important for labeling strands is the location of the 5' phosphate group and the 3' hydroxyl group because these ends determine the direction of transcription and translation. A sequence 5' CGCTAT 3' is equivalent to a sequence written 3' TATCGC 5' as long as the 5' and 3' ends are noted. If the ends are not labeled, convention is to assume that the sequence is written in the 5' to 3' direction. Watson strand refers to 5' to 3' top strand (5' → 3'), whereas Crick strand refers to 5' to 3' bottom strand (3' ← 5').[4] Both Watson and Crick strands can be either sense or antisense strands depending on the gene whose sequences are displayed in the genome sequence database. For example, YEL021W, an alias of URA3 gene used in NCBI database, defines that this gene is located on the 21st open reading frame (ORF) from the centromere of the left arm (L) of Yeast (Y) chromosome number V (E), and that the expression coding strand is Watson strand (W). YKL074C defines the 74th ORF to the left of the centromere of chromosome XI and denotes coding strand from the Crick strand (C). Another confusing term referring to "Plus" and "Minus" strand is also widely used. Whatever the strand is a sense (positive) or antisense (negative), the default query sequence in NCBI BLAST alignment is "Plus" strand.
 
 A DNA molecule is double-stranded. One strand of the molecule is the template strand and one is called the coding strand. 
 
