@@ -1,23 +1,44 @@
 ### Tasks for understanding TRANSCRIPTION and TRANSLATION
 
 **Task 1. Understanding the complementarity principle.**
-a) Write down what would the complementary strand look like:
+1. a) Write down what would the complementary strand look like:
 DNA:
-plus strand (leading): 5’ - TAC TAC GGT AGG TAT ACC TTG - 3’ 
-minus strand (lagging): _’ - __________________________ - _‘
+- plus strand (leading): 5’ - TAC TAC GGT AGG TAT ACC TTG - 3’  (template)
+- minus strand (lagging): 3’ - ATG ATG CCA TCC ATA TGG AAC - 5‘ (coding)
 
-b) Transcribe the DNA sequence given above into a mRNA (hint: you should pay attention to which of the two strands is actually transcribed?)
-mRNA: _’ - ___________________________________ - _’
+  ```
+A DNA molecule is double-stranded. One strand of the molecule is the template strand and one is called the coding strand. 
+
+**template:**
+ACACGGCTTAA
+TGTGCCGAATT
+**coding:**
+
+The bases will always pair A with T and C with G.
+
+When the RNA polymerase transcribes the DNA it reads only the **template strand**. It will pair the appropriate nucleotides with their partners on the template strand of DNA using A, C, G and U (U replaces T in RNA)
+
+**template:**
+ACACGGCTTAA
+UGUGCCGAAUU
+**RNA:**
+
+
+
+  ```
+
+2. b) Transcribe the DNA sequence given above into a mRNA (hint: you should pay attention to which of the two strands is actually transcribed?)
+- mRNA: 3’ - AUG AUG CCA AUA UGG AAC - 5’
 
 **Task 2. Understanding translation (use the printouts of Genetic code tables).**
-a) Translate the given mRNA molecules into an amino acid sequence (hint: first codon starts at 1st nucleotide, i.e., first reading frame)! You can use either the 1-letter or 3-letter code, or both!
+- a) Translate the given mRNA molecules into an amino acid sequence (hint: first codon starts at 1st nucleotide, i.e., first reading frame)! You can use either the 1-letter or 3-letter code, or both!
 1. AUGGGGAUUGUACUAACUUGCCACCGCUAA
 2. GGGAACUUCUGGCAGGUUCCCAGGUCUUAG
 
 How would the example No 2. above look if you translate it in the second reading frame?
 
 
-b) By using the genetic code table, write down the possible nucleotide sequence that has encoded for the given peptide!
+- b) By using the genetic code table, write down the possible nucleotide sequence that has encoded for the given peptide!
 1. Met-Val-Ile-Leu-Ser-Ser-Ala-Trp-Stop
 2. M-W-G-E-P-R-L-L-*
 
