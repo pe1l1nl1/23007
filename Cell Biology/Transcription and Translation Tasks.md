@@ -6,26 +6,24 @@ DNA:
 - plus strand (leading): 5’ - TAC TAC GGT AGG TAT ACC TTG - 3’  (template)
 - minus strand (lagging): 3’ - ATG ATG CCA TCC ATA TGG AAC - 5‘ (coding)
 
-  ```
+```text
+
 A DNA molecule is double-stranded. One strand of the molecule is the template strand and one is called the coding strand. 
 
-**template:**
+template:
 ACACGGCTTAA
 TGTGCCGAATT
-**coding:**
+coding:
 
 The bases will always pair A with T and C with G.
 
-When the RNA polymerase transcribes the DNA it reads only the **template strand**. It will pair the appropriate nucleotides with their partners on the template strand of DNA using A, C, G and U (U replaces T in RNA)
+When the RNA polymerase transcribes the DNA it reads only the template strand. It will pair the appropriate nucleotides with their partners on the template strand of DNA using A, C, G and U (U replaces T in RNA)
 
-**template:**
+template:
 ACACGGCTTAA
 UGUGCCGAAUU
-**RNA:**
-
-
-
-  ```
+RNA:
+```
 
 2. b) Transcribe the DNA sequence given above into a mRNA (hint: you should pay attention to which of the two strands is actually transcribed?)
 - mRNA: 3’ - AUG AUG CCA AUA UGG AAC - 5’
