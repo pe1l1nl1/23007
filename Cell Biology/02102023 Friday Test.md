@@ -1,6 +1,10 @@
 
 ### Epithelia 
 
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/fb5d135a-6e65-4f22-8629-a4c21b5aa376)
+
+
 Questions for the next class:
 
 **Topic - Epithelium**
