@@ -1,9 +1,11 @@
 
 ### Epithelia 
 
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/cf2f46e2-188c-4858-a71e-97ba89af1ad3)
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/fb5d135a-6e65-4f22-8629-a4c21b5aa376)
 
+![Uploading image.png…]()
 
 Questions for the next class:
 
