@@ -5,7 +5,8 @@
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/fb5d135a-6e65-4f22-8629-a4c21b5aa376)
 
-![Uploading image.png…]()
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/f0f0469b-2fd3-4650-9c3d-84c540b655fc)
+
 
 Questions for the next class:
 
