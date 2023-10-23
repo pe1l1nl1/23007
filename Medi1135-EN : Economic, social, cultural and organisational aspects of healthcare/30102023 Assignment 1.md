@@ -1,7 +1,7 @@
-<details> <summary><h2>
 
-Assignment 1 
-</h2></summary>
+
+<h2>Assignment 1 </h2>
+
 - Describe in a brief situations in health care that demonstrates the discrepancy between WANTS and INSUFFICIENT RESOURCES and how a physician/health professional could help with it (to be posted in e-studijas). 
 
 **Title:**
@@ -31,4 +31,4 @@ In sum, while the incongruity between healthcare desires and available resources
 
 - In class Assignment 2 > on 30th October -read Ethics, Chapter 3 (online estudijas).
 
-</details>
+
