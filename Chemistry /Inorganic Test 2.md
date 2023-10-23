@@ -70,6 +70,10 @@ Hexa ammine cobalt (II) chloride
 
 ```
 
+
+examples: 
+
+```example
 [Co(NH3)5 Cl] Cl2
 
 penta ammine chlorido cobalt (III) chloride
@@ -82,6 +86,9 @@ x = 3, therefore Co3+
 start from the complex ion first from [] brackets
 penta ammine chloro cobalt [oxidation state 3] chloride
 
+```
+
+``` example
 [Co(H2O)6] Br3
 
 Co + 6(h2O) + 3(Br) = 0
@@ -92,7 +99,9 @@ Co= 3
 
 hexa aqua cobalt (III) bromide
 
+```
 
+``` example
 K3Fe (CN)6 
 K3 = cation 
 Anion = Fe(CN)6
@@ -107,6 +116,9 @@ Fe(CN)6 = Hexa cyanoferrate (III)
 
 Potassium Hexa Cyanoferrate  (III) 
 
+```
+
+```example
 K3[CoF6]
 
 K3 = +1 
@@ -114,6 +126,10 @@ Co = +3
 F = -6 
 Potassium HexaFluoroCobaltate (III) 
 
+
+```
+
+```example
 Na4 [PtCl6]
 4+, Pt= +2, -6 
 
@@ -125,6 +141,7 @@ Pb -> plumbate
 Au -> aurate 
 Ag -> argentate
 
+```
  
 </details>
 <details><summary><h2>Gravimetry</h2></summary>
