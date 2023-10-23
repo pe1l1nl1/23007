@@ -148,17 +148,73 @@ Ag -> argentate
 
 Aluminium content is an alloy that was determined gravimetrically, an alloy sample of 0.8755g was chemically treated and 0.2389g of aluminium oxide was obtained. Calculate the mass and weight fraction of aluminium in the alloy sample.
 </details>
-<details><summary><h2> Reactions for oxidation and reduction processes, ion-electron method</h2></summary></summary>
+
+
+
+<details><summary><h2> Reactions for oxidation and reduction processes, ion-electron method</h2></summary>
 
   1. Write the reactions for oxidation and reduction processes happening at the cathode and anode for electrolysis of aqueous CaCl2 solution.
   1. Finish the redox equation for oxidation using ion-electron method
+
+
+**How to write Half- Reactions with H2O, H+ and OH-**
+``` How to write Half- Reactions with H2O, H+ and OH-
+Writing half-reactions involving H2O, H+ (hydrogen ions), and OH- (hydroxide ions) is commonly encountered in redox chemistry, especially in the context of acid-base reactions and water electrolysis. Here's how to write half-reactions involving these species:
+
+1. **Balancing the Reaction**:
+
+   Before writing the half-reaction, you need to balance the overall chemical equation for the reaction you're interested in. This means ensuring that the number of atoms of each element and the total charge on both sides of the equation are equal.
+
+2. **Writing the Half-Reaction**:
+
+   A half-reaction is written for the oxidation or reduction of a species. It typically takes the form:
+
+   - Oxidation half-reaction: 
+     Species oxidized ⟶ Products + electrons (e-)
+
+   - Reduction half-reaction: 
+     Species reduced + electrons (e-) ⟶ Products
+
+   When involving H2O, H+, and OH-, these are commonly used half-reaction components:
+
+   - **H2O in Acidic Solution**:
+     In an acidic solution, you can use H2O as a reactant, and it will be converted into H+ ions and OH- ions. For example:
+
+     **Oxidation half-reaction**: H2O ⟶ 2H+ + 1/2O2 + 2e-
+
+     **Reduction half-reaction**: 2H2O + 2e- ⟶ H2 + 2OH-
+
+   - **H+ and OH- Ions**:
+     In some cases, you might deal with reactions in which H+ and OH- ions participate. For example:
+
+     **Oxidation half-reaction**: 4H+ + O2 + 4e- ⟶ 2H2O
+
+     **Reduction half-reaction**: 4OH- ⟶ O2 + 2H2O + 4e-
+
+3. **Balancing the Half-Reaction**:
+
+   Balance the number of atoms and charges on each side of the half-reaction. Ensure that the number of electrons gained in the reduction half-reaction is equal to the number of electrons lost in the oxidation half-reaction. This balance is necessary to make the half-reactions compatible with each other in the context of the overall reaction.
+
+4. **Combining Half-Reactions**:
+
+   After balancing the half-reactions, you can combine them to form the overall redox reaction. Make sure the number of electrons lost in the oxidation half-reaction is equal to the number of electrons gained in the reduction half-reaction. You may need to multiply one or both of the half-reactions by appropriate factors to achieve this balance.
+
+Remember that the choice of whether to include H2O, H+, or OH- in a half-reaction depends on the specific reaction you're dealing with and the conditions (acidic, basic, or neutral). Balancing and combining half-reactions can sometimes be complex, especially in the context of more complicated redox reactions, so practice is essential to master this skill.
+
+```
 </details>
+
+
 <details><summary><h2>Solubility</h2></summary>
 Calculate the numerical value of calcium fluoride solubility product constant K if 8.4mg of CaF2 can dissolve in 500 mL of water. 
+
+   
 </details>
 
 <details><summary><h2>Photometry</h2></summary>
 Guanosine is an organic compound that can be determined photometrically by measuring light absorption in the UV region at 275mn, the molar absorption coefficient value of its solution is e= 8400 L/(mol*cm), when measuring the absorption in a 10mm cuvette, it is 0,700. Calculate the molar concentration of the guanosine solution, what will the absorption of the solution be if the cuvette is 0.5cm? 
+
+
 
 </details>
 
