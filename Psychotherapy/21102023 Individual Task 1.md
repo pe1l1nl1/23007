@@ -6,13 +6,13 @@ Defense mechanisms are psychological strategies that people employ to cope with 
 
    - **Example:** In the movie "Good Will Hunting," the character Will Hunting, played by Matt Damon, has a troubled past and a strong propensity for violence. However, he uses his exceptional mathematical and problem-solving abilities to work as a janitor at the Massachusetts Institute of Technology (MIT). By engaging in complex mathematics and physics problems, he sublimates his anger and emotional distress into an intellectually stimulating pursuit.
 
-2. **Projection (Intermediate Level):**
+2. **Projection (Primitive/immature Level):**
 
    - **Description:** Projection is an intermediate defense mechanism where individuals unconsciously attribute their undesirable thoughts, feelings, or characteristics to someone else. This helps protect their self-esteem by externalizing their inner conflicts and placing the blame on others.
 
    - **Example:** In the classic movie "The Wizard of Oz," Dorothy and her companions (Scarecrow, Tin Man, and Lion) project their insecurities and desires onto the wizard. Dorothy seeks a way home, Scarecrow desires a brain, Tin Man a heart, and Lion courage. They believe the wizard possesses the power to grant these qualities, whereas, in reality, they already possess these attributes but have projected their needs and fears onto an external figure.
 
-3. **Repression (Primitive Level):**
+3. **Repression (Neurotic Level):**
 
    - **Description:** Repression is a primitive defense mechanism that involves pushing distressing memories, thoughts, or emotions out of one's conscious awareness. These feelings are buried in the unconscious mind, as they are too threatening or distressing to confront directly.
 
