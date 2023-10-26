@@ -18,14 +18,17 @@ Aquaporins, which are water channels, are present in both the clear cells and du
    - **Clear Cells**: Clear cells are responsible for primary sweat secretion. They have a well-developed rough endoplasmic reticulum (ER) to synthesize proteins and a high number of mitochondria to provide energy for active transport. These features aid in the production and secretion of sweat by enabling the synthesis of sweat components and providing the necessary energy for transport.
 
    - **Dark Cells**: Dark cells contain granules, which are thought to be involved in modifying the primary sweat secretion. However, their ultrastructural features are not as well defined as clear cells.
+   - <img width="573" alt="Screenshot 2023-10-27 at 00 19 19" src="https://github.com/pe1l1nl1/23007/assets/19546253/5dd1ca97-2a22-474f-a20e-2f0bffaed603">
 
 3. **Role of Cell Junctions**:
 
    - **Gap Junctions**: Gap junctions are important for cell-to-cell communication. In sweat glands, they allow the exchange of ions and small molecules between adjacent clear cells, aiding in synchronization and coordination of sweat secretion. These junctions are found between neighboring secretory cells.
 
    - **Tight Junctions**: Tight junctions form a barrier between cells in the duct, creating a selectively permeable layer. They prevent the backflow of sweat and regulate the movement of ions and water into the sweat duct. Tight junctions are located in the apical region of duct cells.
+<img width="491" alt="Screenshot 2023-10-27 at 00 24 03" src="https://github.com/pe1l1nl1/23007/assets/19546253/bdb6cf08-4fd6-4d60-b930-95a12b2ac238">
 
    - **Desmosomes**: Desmosomes are cell adhesion structures that help hold adjacent cells together. While not directly involved in sweat secretion, they provide structural integrity to the gland and ensure the integrity of the duct and secretory unit.
+<img width="419" alt="Screenshot 2023-10-27 at 00 22 08" src="https://github.com/pe1l1nl1/23007/assets/19546253/4cf6f79a-9e7b-47d0-9bce-bbba4001a19c">
 
 4. **Transport Mechanism for Sweat Production by Clear Cells**:
 
@@ -34,6 +37,9 @@ Clear cells secrete sweat through a two-step process:
    - **Active Transport**: Clear cells actively transport sodium and chloride ions from the surrounding interstitial fluid into the cell. This is accomplished via ion pumps and transporters located in the basolateral membrane. These ions create an osmotic gradient, drawing water into the cell.
 
    - **Passive Diffusion**: Water moves passively through the aquaporins in the apical membrane of clear cells, following the osmotic gradient created by ion transport. This combination of active ion transport and passive water movement leads to the secretion of sweat into the gland lumen.
+   - 
+   - <img width="412" alt="Screenshot 2023-10-27 at 00 21 26" src="https://github.com/pe1l1nl1/23007/assets/19546253/e7a25238-7e59-4d3d-afdd-7a6366d4ce07">
+
 
 5. **Reabsorption Mechanism by Duct Cells**:
 
@@ -46,3 +52,4 @@ Duct cells play a role in reabsorption and modification of sweat. They reabsorb 
    - **Modification of Sweat**: Duct cells can modify the ionic composition of sweat by selectively reabsorbing or secreting ions, thus ensuring that the final sweat composition is suitable for thermoregulation.
 
 Remember that the specific ultrastructural features and distribution of junctions can vary slightly between different sweat gland types (eccrine, apocrine) and their anatomical location (palms, soles, armpits, etc.).
+<img width="543" alt="Screenshot 2023-10-27 at 00 22 55" src="https://github.com/pe1l1nl1/23007/assets/19546253/c3a2e5d2-d846-42aa-9135-541ae4293942">
