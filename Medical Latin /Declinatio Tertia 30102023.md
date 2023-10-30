@@ -48,3 +48,12 @@
 - calores, calorum 
 - colores, colorum 
 
+
+### i group nouns:
+
+- Neutrum gender nouns with N.sg. endings **-e, al or -ar**
+- mar**e**, maris n. -sea
+- anim**al**, animalis n. -animal
+- exempl**ar**, exemplaris n. -example, sample
+
+
