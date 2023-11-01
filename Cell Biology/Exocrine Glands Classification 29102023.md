@@ -45,6 +45,22 @@ The Endocrine glands,
 
 - I will only ask you to draw and describe one type – pancreatic islet which is described best in the Textbook of Histology, Fifth Edition (Leslie P. Gartner PhD), chapter "Digestive System: Glands".
 
+
+The pancreas islet, also known as the pancreatic islet or islets of Langerhans, is a vital component of the pancreas responsible for regulating blood sugar levels and producing hormones involved in glucose metabolism. The pancreas is an organ located behind the stomach and plays a crucial role in both digestion and the endocrine system. The pancreas contains two main types of cells within the islets: alpha cells and beta cells. These cells have distinct functions and features:
+
+**1. Beta Cells:**
+   - **Function**: Beta cells are responsible for producing and secreting the hormone insulin. Insulin plays a central role in regulating blood sugar (glucose) levels in the body. When blood glucose levels rise after eating, beta cells release insulin into the bloodstream. Insulin promotes the uptake of glucose by cells, allowing them to use it for energy or store it as glycogen in the liver and muscles. Insulin also inhibits the release of glucose from the liver, thus lowering blood sugar levels.
+
+   - **Features**: Beta cells are sensitive to changes in blood glucose concentrations. They have glucose receptors that allow them to detect variations in blood sugar levels. When glucose levels are high, beta cells release insulin to bring them back within a healthy range.
+
+**2. Alpha Cells:**
+   - **Function:** Alpha cells produce and secrete the hormone glucagon. Glucagon has the opposite effect of insulin. When blood glucose levels are low, such as between meals or during periods of fasting, alpha cells release glucagon. Glucagon signals the liver to break down stored glycogen into glucose and release it into the bloodstream, raising blood sugar levels. This process is known as glycogenolysis.
+
+   - **Features**: Alpha cells respond to low blood glucose levels by releasing glucagon, which helps maintain adequate glucose levels in the bloodstream. The balance between insulin and glucagon is essential for maintaining glucose homeostasis.
+
+In addition to beta and alpha cells, the pancreatic islets also contain other cell types, including **delta cells** that produce somatostatin, which regulates the release of insulin and glucagon, and PP cells that produce pancreatic polypeptide, which can affect appetite and digestion.
+
+The proper functioning of the pancreas islets is essential for overall health, as they help regulate blood sugar levels and ensure that the body has a steady supply of energy. Dysfunction of these islet cells can lead to conditions such as diabetes mellitus, where there is a disruption in glucose regulation, resulting in chronic high (in the case of type 2 diabetes) or low (in the case of type 1 diabetes) blood sugar levels. 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/03d87638-e2b5-4c21-8c3f-ee983f0a8a44)
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/c261f851-dcf9-4cc3-bddd-2ae7e2916f4c)
