@@ -21,15 +21,15 @@ There are several histological differences between these two types of glands, bu
 ### The classification of endocrine glands
 
 The Endocrine glands, 
-**Hypothalamus** regulates hunger, thirst, sleep and wakefulness plus most of your involuntary mechanisms including body temperature.
-**P = Pituitary**  Controls all other endocrine glands, and influences growth, metabolism and regeneration.
-**T = Thyroid** Regulates energy and metabolism 
+- **Hypothalamus** regulates hunger, thirst, sleep and wakefulness plus most of your involuntary mechanisms including body temperature.
+- **P = Pituitary**  Controls all other endocrine glands, and influences growth, metabolism and regeneration.
+- **T = Thyroid** Regulates energy and metabolism 
 
-**P = Parathyroid**  secretes the hormones necessary for calcium absorption
-**A = Adrenal** secretes hundreds of compounds including cortisone and adrenaline which help you react to emergencies. Regulates your metabolic processes in the cells, water balance, blood pressure, etc. 
-**P = Pancreas** aids in the digestion of protein, fats and carbohydrates. Produces insulin which controls blood sugar levels.
-**O = Ovaries** Influences how your blood circulates and determines your mental bogot and your sex drive (testes in males).
-**T = Testes**
+- **P = Parathyroid**  secretes the hormones necessary for calcium absorption
+- **A = Adrenal** secretes hundreds of compounds including cortisone and adrenaline which help you react to emergencies. Regulates your metabolic processes in the cells, water balance, blood pressure, etc. 
+- **P = Pancreas** aids in the digestion of protein, fats and carbohydrates. Produces insulin which controls blood sugar levels.
+- **O = Ovaries** Influences how your blood circulates and determines your mental bogot and your sex drive (testes in males).
+- **T = Testes**
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/e79abccd-d1b3-4820-b9b7-487041beee20)
 
