@@ -5,7 +5,7 @@
 
 ### Sweat Glands
 
-- **Sweat Glands**are exocrine glands distributed throughout the body surface. They are referred to as sudoriferous or sudoriparous glands (sudor = sweat in Latin).
+- **Sweat Glands** are exocrine glands distributed throughout the body surface. They are referred to as sudoriferous or sudoriparous glands (sudor = sweat in Latin).
 - **Eccrine glands** are found all over the body and secrete a watery product that cools the skin.
 - **Apocrine sweat glands** are mainly found in the armpits and perianal area and secrete a more viscous and odorous product.
 <img width="450" alt="Screenshot 2023-11-01 at 18 38 03" src="https://github.com/pe1l1nl1/23007/assets/19546253/0747cc78-e4ca-4025-bab1-d667178a28ce">
@@ -20,7 +20,26 @@ There are several histological differences between these two types of glands, bu
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/25edaea3-4ec0-4c9d-a587-7b6e95cdf2e0)
 
+### Exocrine glands can be classified according to
+- number of cells
+  1. uni- or
+  2. multicellular, which can be simple (one branched duct e.g. sweat gland) or compound (branched ducts) parotid gland 
+- mode of secretion (holocrine, apocrine, merocrine)
+- shape ( tubular, alveolar(acinar), tubuloalveolar
+- secretary products (mucous and serous)
 
+- Exocrine glands release their products onto the surface of the skin or mucous membranes
+- mucous membranes of tubular organs of the digestive, respiratory or reproductive tracts.
+
+### Demonstration of mucins with different stainings 
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/b360777e-ca0f-4ae1-9743-aecf234bd678)
+
+### Multicellular glands
+- intraepithelial gland, which is entirely within the epithelium
+- extraepithelial gland, which is below epithelium
+
+  
 ### The classification of endocrine glands
 
 The Endocrine glands, 
