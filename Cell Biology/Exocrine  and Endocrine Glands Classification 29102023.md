@@ -67,3 +67,4 @@ The proper functioning of the pancreas islets is essential for overall health, a
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/c261f851-dcf9-4cc3-bddd-2ae7e2916f4c)
 
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/8f87f901-4fa1-4843-8c92-59ad2f340125)
