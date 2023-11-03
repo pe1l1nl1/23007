@@ -41,7 +41,30 @@ The Endocrine glands,
 ### Draw and describe two types of glands (either exocrine or endocrine) 
 
 - for example, a simple tubular gland and endocrine gland or a simple branched acinar and branched tubular gland.
+
+Glands in the human body can be classified into two main types: exocrine glands and endocrine glands. I'll describe these two types of glands and also provide information about their specific subtypes, such as simple tubular, simple branched acinar, and branched tubular glands.
+
+1. Exocrine Glands:
+   - Exocrine glands are glands that secrete their products (e.g., enzymes, sweat, mucus, saliva) into ducts, which then carry these secretions to a specific location, typically on an epithelial surface, within or outside the body. These glands play a crucial role in functions like digestion, temperature regulation, and maintaining various bodily surfaces.
+
+   Subtypes of Exocrine Glands:
+   a. Simple Tubular Gland: This type of exocrine gland has a single, unbranched tubular structure. It consists of a duct leading to a secretory portion, which can be further divided into two parts: the duct and the secretory cells. An example of a simple tubular gland is the intestinal glands (crypts of Lieberkühn) in the small intestine.
+
+   b. Simple Branched Acinar Gland: A simple branched acinar gland has a duct that branches into several sac-like structures known as acini. Each acinus is lined with secretory cells that produce and release their secretions directly into the lumen of the acinus. An example of a simple branched acinar gland is the sebaceous gland, which produces sebum (skin oil).
+
+2. Endocrine Glands:
+   - Endocrine glands are ductless glands that secrete hormones directly into the bloodstream. These hormones then travel throughout the body to target organs or tissues, where they regulate various physiological processes and maintain homeostasis.
+
+   Subtypes of Endocrine Glands: Endocrine glands do not have the same structural diversity as exocrine glands, as they primarily consist of clusters of hormone-secreting cells. Common examples include the pituitary gland, thyroid gland, and adrenal gland.
+
+3. Branched Tubular Gland:
+   - A branched tubular gland is a type of exocrine gland with a tubular structure that branches as it extends into the tissue. This gland type combines characteristics of both simple tubular and branched structures. An example of a branched tubular gland is the gastric (stomach) glands, which have a complex branched structure and secrete gastric juice for digestion.
+
+In summary, exocrine glands have ducts and can take on various shapes and structures, such as simple tubular, simple branched acinar, and branched tubular, while endocrine glands lack ducts and release hormones directly into the bloodstream to regulate physiological functions throughout the body.
+
 - How to draw and describe these glands you can find in two sources – exocrine glands are best described in Wheater's Functional Histology, Seventh Edition, chapter "Epithelial tissues" and endocrine gland
+
+  
 
 ### Pancreatic islet 
 
