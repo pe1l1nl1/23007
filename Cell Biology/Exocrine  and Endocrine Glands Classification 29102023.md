@@ -2,7 +2,7 @@
 
 ### Sweat Glands 
 
-- are exocrine glands distributed throughout the body surface. They are referred to as sudoriferous or sudoriparous glands (sudor = sweat in Latin).
+- **Sweat Glands**are exocrine glands distributed throughout the body surface. They are referred to as sudoriferous or sudoriparous glands (sudor = sweat in Latin).
 - **Eccrine glands** are found all over the body and secrete a watery product that cools the skin.
 - **Apocrine sweat glands** are mainly found in the armpits and perianal area and secrete a more viscous and odorous product.
 <img width="265" alt="Screenshot 2023-11-01 at 18 38 03" src="https://github.com/pe1l1nl1/23007/assets/19546253/0747cc78-e4ca-4025-bab1-d667178a28ce">
