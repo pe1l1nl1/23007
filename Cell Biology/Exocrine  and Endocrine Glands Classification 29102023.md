@@ -1,12 +1,15 @@
-<img width="582" alt="Screenshot 2023-11-01 at 18 58 37" src="https://github.com/pe1l1nl1/23007/assets/19546253/abd27b4e-1d8e-4f85-8fa3-bd7c8c419574">
 
-### Sweat Glands 
+### Formation of the exocrine and endocrine glands
+
+<img width = "750" src= "https://github.com/pe1l1nl1/23007/assets/19546253/e5fda6cb-24c4-4bb5-823e-8c99ec0d06ea)"> 
+
+### Sweat Glands
 
 - **Sweat Glands**are exocrine glands distributed throughout the body surface. They are referred to as sudoriferous or sudoriparous glands (sudor = sweat in Latin).
 - **Eccrine glands** are found all over the body and secrete a watery product that cools the skin.
 - **Apocrine sweat glands** are mainly found in the armpits and perianal area and secrete a more viscous and odorous product.
-<img width="265" alt="Screenshot 2023-11-01 at 18 38 03" src="https://github.com/pe1l1nl1/23007/assets/19546253/0747cc78-e4ca-4025-bab1-d667178a28ce">
-<img width="265" alt="Screenshot 2023-11-01 at 18 38 12" src="https://github.com/pe1l1nl1/23007/assets/19546253/408eb327-d783-410e-9f2c-e0b6b8ab3400">
+<img width="450" alt="Screenshot 2023-11-01 at 18 38 03" src="https://github.com/pe1l1nl1/23007/assets/19546253/0747cc78-e4ca-4025-bab1-d667178a28ce">
+<img width="450" alt="Screenshot 2023-11-01 at 18 38 12" src="https://github.com/pe1l1nl1/23007/assets/19546253/408eb327-d783-410e-9f2c-e0b6b8ab3400">
 
 There are several histological differences between these two types of glands, but they do share a common general structure. That is, they both consist of secretory and duct (excretory) segments.
 <img width="764" alt="Screenshot 2023-11-01 at 18 38 53" src="https://github.com/pe1l1nl1/23007/assets/19546253/e1082044-1ce2-474a-b900-e05a99b10a19">
@@ -34,9 +37,7 @@ The Endocrine glands,
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/e79abccd-d1b3-4820-b9b7-487041beee20)
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/26b7fea8-747d-4b7a-ab62-223974ccce32)
-
-
-<img width="578" alt="Screenshot 2023-11-01 at 18 58 50" src="https://github.com/pe1l1nl1/23007/assets/19546253/5bee4e0f-8eb6-4021-ad51-6d7c94c564ab">
+<img width="582" alt="Screenshot 2023-11-01 at 18 58 37" src="https://github.com/pe1l1nl1/23007/assets/19546253/abd27b4e-1d8e-4f85-8fa3-bd7c8c419574">
 
 ### Draw and describe two types of glands (either exocrine or endocrine) 
 
