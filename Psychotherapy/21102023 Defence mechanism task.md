@@ -1,3 +1,6 @@
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/dd37f1aa-79c7-49d5-bdca-ff265023bbf9)
+
+
 Defense mechanisms are psychological strategies that people employ to cope with stress, anxiety, and threats to their self-esteem. These mechanisms operate at different levels of consciousness and serve as protective mechanisms. Here are three defense mechanisms, each from a different level:
 
 1. **Sublimation (Mature Level):**
