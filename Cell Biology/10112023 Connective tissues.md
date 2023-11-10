@@ -26,6 +26,16 @@ Also found in connective tissue are cells associated with the immune system. **M
 6. **Transporting.** Blood transports gases, nutrients, enzymes, hormones, and cells of the immune system throughout the body.
 7. **Protecting.** Cells of the immune system and blood provide protection against toxins and tissue injury, as well as against microorganisms. Bones protect underlying structures from injury.
 
+## Classification of Connective Tissue 
+
+Connective tissue types blend into one another, and the transition points cannot be precisely identified. As a result, connective tissue is somewhat arbitrarily classified by the type and proportions of cells and extracellular matrix. 
+
+Two major categories of connective tissue are embryonic and adult connective tissue. By **eight** weeks of development, most of the embryonic connective tissue has become specialized to form the types of connective tissue seen in adults.
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/6558dece-573d-4a41-9e54-094e3281aa84)
+
+
+
+Table 4.4 presents the classification of adult connective tissue used in this text. Adult connective tissue consists of three types: connective tisse
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/76bf7394-294f-4c6a-b450-83dc34d180c5)
 
