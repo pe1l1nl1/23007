@@ -1,7 +1,15 @@
-## Connective tissues 
+# Connective Tissues 
 
+## Functions of connective tissues 
 
-## Connective tissue
+1. Enclosing and separating other tissues
+2. Connecting tissues to one another
+3. Supporting and moving parts of the body
+4. Stroring compounds
+5. Cushioning and insulating
+6. Transporting
+7. Protecting
+   
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/76bf7394-294f-4c6a-b450-83dc34d180c5)
 
