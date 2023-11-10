@@ -1,5 +1,14 @@
 ## Connective tissues 
 
+
+## Connective tissue
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/76bf7394-294f-4c6a-b450-83dc34d180c5)
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/8ccce885-eed6-4e2b-b671-f3c0b4fc6172)
+
+[Connective tissues](https://www.brainkart.com/article/Connective-tissue_21762/)
+
 ### Fibroblasts 
 [Fibroblasts](https://mmegias.webs.uvigo.es/02-english/8-tipos-celulares/fibroblasto.php)
 
@@ -18,4 +27,7 @@ Figure 2. Dermal fibroblasts. It is shown irregular dense connective tissues wit
 ### Eosinophil 
 
 ### Mastocyte 
+
+
+
 
