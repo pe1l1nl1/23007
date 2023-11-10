@@ -35,13 +35,19 @@ Two major categories of connective tissue are embryonic and adult connective tis
 
 
 
-Table 4.4 presents the classification of adult connective tissue used in this text. Adult connective tissue consists of three types: connective tisse
+Table 4.4 presents the classification of adult connective tissue used in this text. Adult connective tissue consists of three types: connective tissue
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/76bf7394-294f-4c6a-b450-83dc34d180c5)
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/8ccce885-eed6-4e2b-b671-f3c0b4fc6172)
 
 [Connective tissues](https://www.brainkart.com/article/Connective-tissue_21762/)
+
+### Cell types 
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/da9eab4c-d988-462d-808c-bdfc59fa61f2)
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/730a39ca-046d-4e74-a552-5913f8da8bfb)
+
 
 ### Fibroblasts 
 [Fibroblasts](https://mmegias.webs.uvigo.es/02-english/8-tipos-celulares/fibroblasto.php)
@@ -64,4 +70,10 @@ Figure 2. Dermal fibroblasts. It is shown irregular dense connective tissues wit
 
 
 
+
+
+references
+
+1. [Connective tissues](https://www.brainkart.com/article/Connective-tissue_21762/)
+2. [Connective tissue](https://medcell.org/tbl/histology_of_connective_tissues/reading.php)
 
