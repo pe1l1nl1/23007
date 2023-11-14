@@ -16,7 +16,10 @@ If you already want to read about this then many answers can be found in:
 
 Material about this question is in Textbook of Histology, Fifth Edition, Leslie P. Gartner PhD in the chapter "Nucleus"
 
- 
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/be6eac9a-134b-496f-a3b8-95f97ef4167d)
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/8ed9c64d-6ae2-407c-93c5-3ec69a6a007b)
+
 
 ## Basement membrane:
 
@@ -66,45 +69,3 @@ Material about this question is in Textbook of Histology, Fifth Edition, Leslie 
 
 - **Diakinesis:** Diakinesis is the final stage of meiosis I prophase when chromosomes continue to condense and chiasmata become visible, marking sites of genetic exchange.
 
-# Short Answers 
-
-**Nucleus:**
-
-1. **Euchromatin and Heterochromatin:** Euchromatin is a less condensed form of chromatin and is transcriptionally active, while heterochromatin is highly condensed and transcriptionally inactive. These structures help regulate gene expression.
-
-2. **Barr Body:** The Barr body is an inactivated X chromosome in female somatic cells, which compensates for the double dose of X-linked genes in females.
-
-3. **Variations in Nucleus Shape:** The shape of the nucleus can vary in response to physiological conditions (e.g., cell differentiation) and pathological conditions (e.g., cancer). These changes can affect cellular function.
-
-4. **Nucleolus Structure and Functions:** The nucleolus is a subnuclear organelle responsible for ribosome assembly. It contains ribosomal RNA (rRNA) and proteins and is involved in protein synthesis.
-
-5. **Nuclear Envelope:** The nuclear envelope consists of two membranes that surround the nucleus. It separates the nucleus from the cytoplasm, regulates the passage of molecules, and provides structural support.
-
-6. **Nuclear Lamina:** The nuclear lamina is a protein network beneath the inner nuclear membrane. It maintains the shape of the nucleus and regulates DNA replication and transcription.
-
-7. **Nuclear Pore Complex:** Nuclear pore complexes are protein structures spanning the nuclear envelope. They control the exchange of molecules (e.g., mRNA, proteins) between the nucleus and cytoplasm, crucial for cell function.
-
-**Basement Membrane:**
-
-1. **Basement Membrane vs. Basal Lamina:** The basement membrane is a specialized extracellular matrix structure found in many tissues, consisting of the basal lamina (secreted by epithelial cells) and the reticular lamina (secreted by underlying connective tissue cells).
-
-2. **Structure:** The basement membrane is composed of proteins like collagen, laminin, and proteoglycans. It forms a sheet-like structure between epithelial cells and underlying connective tissue.
-
-3. **Functions:** The basement membrane provides mechanical support, helps maintain tissue integrity, and acts as a barrier. It also plays a role in cell adhesion, differentiation, and filtration (e.g., in the kidneys).
-
-4. **Location:** Basement membranes are found in various tissues, including the skin, blood vessels, respiratory tract, and kidney nephrons.
-
-**Meiosis:**
-
-1. **Meiosis vs. Mitosis:** Meiosis is a cell division process that reduces the chromosome number by half, resulting in four non-identical haploid cells. Mitosis, on the other hand, produces two identical diploid cells for growth and repair.
-
-2. **Meiosis I - Males vs. Females:** In males, meiosis I results in two equal-sized haploid cells called secondary spermatocytes. In females, meiosis I produces one large secondary oocyte and one smaller polar body.
-
-3. **Meiosis I Prophase Substages:** Prophase I includes several substages: 
-   - **Leptotene:** Chromosomes condense.
-   - **Zygotene:** Homologous chromosomes pair up (synapsis).
-   - **Pachytene:** Crossing-over occurs, leading to genetic recombination.
-   - **Diplotene:** Chromatids remain attached at chiasmata, and chromosomes start to separate.
-   - **Diakinesis:** Chromosomes fully condense and nuclear envelope breaks down.
-
-These stages are critical for genetic diversity in offspring and ensuring proper chromosome segregation during meiosis.
