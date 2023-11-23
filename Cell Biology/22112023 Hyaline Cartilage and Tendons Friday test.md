@@ -165,6 +165,7 @@ Tendons and ligaments are both types of connective tissues primarily composed of
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/80becb46-eda8-41f5-9122-260791499540)
 
 ### Picture of differences 
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/8c9315a5-874a-450f-800e-8b1c956c2042)
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/d29d0240-0526-448f-906d-a74ad6bb6032)
+
 
 In summary, while both tendons and ligaments are made primarily of collagen fibers and serve important roles in the musculoskeletal system, their differences in composition, arrangement, attachment points, and healing capacity correspond to their distinct functions in transmitting force and providing stability within the body.
