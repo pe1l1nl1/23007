@@ -27,9 +27,6 @@ Here are some locations where hyaline cartilage is found in the human body:
 - **Nasal Cartilage** Shapes and supports the nose structure.
 - **Embryonic Skeleton:** Initially forms the skeleton in embryos, providing a template for bone formation.
 
-**pictures of the Hyaline cartilage**
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/da2a20a8-56fe-406d-a2e2-5ba4310dfc14)
-
 ### Elastic cartilage - structure and locations in the human body with a drawing 
 Elastic cartilage is a type of connective tissue that, similar to hyaline cartilage, contains chondrocytes embedded in an extracellular matrix. However, elastic cartilage is distinguished by a higher proportion of elastic fibres within its matrix, in addition to collagen and proteoglycans.
 
@@ -65,9 +62,11 @@ Fibrocartilage is a specialized type of cartilage that contains both chondrocyte
 Fibrocartilage's composition of dense collagen fibres gives it both strength and flexibility, making it well-suited for locations in the body that experience significant pressure, tension, or shear forces.
 
 ### Picture of Hyaline cartilage, Fibrocartilage and Elastic Cartilage
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/4cf29384-9ae4-4b81-92f7-bcb029ff3ce5)
 
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/df141bd3-5dc9-45de-bbb7-fb1047baec91)
+<img width="507" src="https://github.com/pe1l1nl1/23007/assets/19546253/4cf29384-9ae4-4b81-92f7-bcb029ff3ce5">
+
+<img width="707" height="707" src="https://github.com/pe1l1nl1/23007/assets/19546253/df141bd3-5dc9-45de-bbb7-fb1047baec91">
+
 
 # Tendons
 
@@ -77,7 +76,7 @@ Here's a breakdown of the similarities and differences between tendons and ligam
 **Tendons and Ligaments:**
 
 **Similarities:**
-- Both composed primarily of dense connective tissue, primarily collagen fibers.
+- Both are composed primarily of dense connective tissue, primarily collagen fibers.
 - Provide structural support and connect different structures within the body.
 
 **Differences:**
@@ -112,12 +111,13 @@ A cross-section of a ligament would reveal its composition primarily consisting 
 - **Supportive Role:** Ligaments provide structural support to the musculoskeletal system, aiding in overall body stability and posture.
 
 Overall, ligaments are critical structures that contribute to the stability, functionality, and protection of joints, ensuring optimal movement while minimizing the risk of injury or damage.
-### Drawing of a tendon structure 
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/b516c1b3-305f-47ed-b92f-8e68bd5972b7)
+### Drawing of a Tendon structure 
+
+<img width="507" src="https://github.com/pe1l1nl1/23007/assets/19546253/b516c1b3-305f-47ed-b92f-8e68bd5972b7">
 
 
 ### Draw a longitudinal section of a ligament, explain the functions of a ligament 
-In a longitudinal section of a ligament, you'd observe its structure elongated along the direction of the fibres, showcasing its composition primarily consisting of collagen fibers arranged in parallel bundles.
+In a longitudinal section of a ligament, you'd observe its structure elongated along the direction of the fibres, showcasing its composition primarily consisting of collagen fibres arranged in parallel bundles.
 
 **Functions of Ligaments in a Longitudinal Section:**
 
@@ -134,11 +134,6 @@ In a longitudinal section of a ligament, you'd observe its structure elongated a
 6. **Adaptation to Forces:** Ligaments can adapt and modify their structure over time in response to changes in forces applied to the joint, contributing to the joint's adaptability and resilience.
 
 In summary, in a longitudinal section, ligaments showcase their elongated fibrous structure, emphasizing their role in providing stability, load-bearing support, controlled movement, and joint alignment within the musculoskeletal system.
-
-### Picture of a longitudinal section of ligament 
-
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/763c3f7a-e696-4933-b7e2-9619201fef03)
-
 
 ### Explain the structural differences between tendon and ligament, and draw an illustration that shows them 
 
@@ -163,18 +158,19 @@ Tendons and ligaments are both types of connective tissues primarily composed of
    - **Ligaments:** Have a slightly better blood supply compared to tendons, which can aid in the healing process to some extent. However, ligament injuries can also be slow to heal due to their structural complexity and the stresses they endure.
 
 ### Picture of differences 
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/80becb46-eda8-41f5-9122-260791499540)
 
+<img width="507" src="https://github.com/pe1l1nl1/23007/assets/19546253/80becb46-eda8-41f5-9122-260791499540">
 
 ### Picture of differences 
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/d29d0240-0526-448f-906d-a74ad6bb6032)
-
+<img width="507" src="https://github.com/pe1l1nl1/23007/assets/19546253/d29d0240-0526-448f-906d-a74ad6bb6032">
 
 
 In summary, while both tendons and ligaments are made primarily of collagen fibers and serve important roles in the musculoskeletal system, their differences in composition, arrangement, attachment points, and healing capacity correspond to their distinct functions in transmitting force and providing stability within the body.
 
 
-### Tendon composite: Cross sectional and Longitudinal section 
-![image](https://github.com/pe1l1nl1/23007/assets/19546253/61f97852-2e22-45b7-867a-dc51042385fb)
+### Tendon composite: Cross-sectional and Longitudinal section 
 
-
+<img width="507" alt="Screenshot 2023-11-23 at 15 59 56" src="https://github.com/pe1l1nl1/23007/assets/19546253/fc59a041-e046-4434-b589-f3fe34eb4b83">
+<img width="631" alt="Screenshot 2023-11-23 at 16 00 07" src="https://github.com/pe1l1nl1/23007/assets/19546253/a59ff835-b519-4b6b-891f-802a308164e8">
+<img width="634" alt="Screenshot 2023-11-23 at 16 00 30" src="https://github.com/pe1l1nl1/23007/assets/19546253/d572928f-39dd-4f38-9d25-0dd020828895">
+<img width="628" alt="Screenshot 2023-11-23 at 16 00 41" src="https://github.com/pe1l1nl1/23007/assets/19546253/68bbf253-dedd-485a-a26b-3f7aa639f825">
