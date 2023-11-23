@@ -67,6 +67,7 @@ Fibrocartilage's composition of dense collagen fibres gives it both strength and
 ### Picture of Hyaline cartilage, Fibrocartilage and Elastic Cartilage
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/4cf29384-9ae4-4b81-92f7-bcb029ff3ce5)
 
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/df141bd3-5dc9-45de-bbb7-fb1047baec91)
 
 # Tendons
 
@@ -164,8 +165,16 @@ Tendons and ligaments are both types of connective tissues primarily composed of
 ### Picture of differences 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/80becb46-eda8-41f5-9122-260791499540)
 
+
 ### Picture of differences 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/d29d0240-0526-448f-906d-a74ad6bb6032)
 
 
+
 In summary, while both tendons and ligaments are made primarily of collagen fibers and serve important roles in the musculoskeletal system, their differences in composition, arrangement, attachment points, and healing capacity correspond to their distinct functions in transmitting force and providing stability within the body.
+
+
+### Tendon composite: Cross sectional and Longitudinal section 
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/61f97852-2e22-45b7-867a-dc51042385fb)
+
+
