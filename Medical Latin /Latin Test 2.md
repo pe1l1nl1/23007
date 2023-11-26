@@ -61,15 +61,142 @@ Rp.: Acidi borici 3.0  | **Ac.**  |
 | Latin Noun     | Nominative plural = N.pl      | Genetive plural = G. Pl |
 |----------------|-----------|------|
 |skeleton (=sceletus), i n.  |sceleta | sceletorum|
-|crystallus, i f.|||
-|methods, i f.|||
+|crystallus, i m.|crystalli  | crystallorum|
+|methods, i m.|methodi| methodorum|
 |gutta, ae f.|gutta|guttae|
 |medicus, i m.|medici|medicorum|
-|oculista, ae m.|||
+|oculista, ae m.  | oculistae| oculistarum|
 |linimentum, i m.|linimenti| linimentorum|
 |morbus, i m.| morbi| morbōrum|
 |intestinum, i n.|intestina|intestorum|
 
+### Clauses
+
+ Take: 10 grams of common Anise                 
+       Root of Althaea               
+       Root of  Glycyrrhiza 20 grams in equal parts. 
+       Mix, let it become herbal tea. 
+       Give. Designate.   
+
+```
+ Rp.:  Anisi   vulgaris   10.0
+       Radicis Althaeae
+       Radicis Glycyrrhizae    āā  20.0
+M. f. [misce fiat]  species.  // M.f.spec. D. S. 
+```
 
 
- 
+Take: Osarsolum               
+      Boric acid              
+      Glycoses 0,25 grams in equal parts              
+      4 grams of Cacao oil Mix; let it become a vaginal suppository or pellet. 
+      Give in such doses in a number of 6.  Designate.  
+
+
+```
+Rp.: Osarsoli
+      Acidi borici
+      Glucosi  āā 0.25
+Olei Cacao 4.0 //   Ol. Cacao 4.0
+M.f. supp. vag. s. glob.  // Misce fiat suppositorium vaginale sive globulus
+D.t.d. N. 6 S. 
+
+```
+
+ - Show (sg.) the bones of human skeleton (demonstrare + Acc.; skeleton, i n.; humanus II,a I,um II; os, ossis n.)  **Demonstra ossa skeleti humani!**
+ - Take: 10 grams 2,5 % Ointment of Hydrocortisone (unguentum, i n.; Hydrocortisonum, i n.). Give. Designate. **Rp.: Unguenti (Ung.) Hydrocortisoni 2.5%  10.0 D.S.**
+ -   Show ( sg.) costal angle (=angle of rib)! (demonstrare + Acc.; costa, ae f.; angulus, i m. (leņķis))  **Demonstra angulum costae!**
+ -   Various diseases of blood vessels (vas, vasis n. ; sanguiferus, a, um; morbus, i m.; varius,a,um) **Morbi varii vasum sanguiforum/Morbi vasum sanguiforum varii**
+ -   Causes of hepatosis  (causa, ae f; hepatosis, is f. )  **Causae hepatosis**
+ -   Do not be harmful (2nd pers. sg. + Dat. ) to nature, people and animals! (nocēre; natura, ae f.; homo, hominis m.; animal, animalis n.) **Noli nocere naturae, hominibus et animalibus**
+ -    Signs of inflammation (signum, i n. ; inflammatio, inflammationis f.)  **Signa inflammationis**
+ -    Signs of biological and clinical death (mors, mortis f.; biologicus,a, um; clinicus, a, um ; et; signum, i n. ) **Signa mortis biologicae et clinicae**
+ - High and small doses (dosis, is f.; magnus,a ,um; parvus,a,um) **Doses magnae et parvae**
+ - Preparation of composite medicine (medicamentum, i n.; compositus, a, um; praeparatio, praeparationis f.)  **Praeparatio medicamenti compositi / Praeparatio medicamentorum compositorum**
+ -  Take: 10 grams of tincture of Motherwort (= Leonurus)! (Leonūrus, i m.)  **Rp.: Tincturae (Tct. or another abbreviation) Leonuri 10.0**
+ -  Severe diseases (morbus, i m.; gravis m.f., e n) **Morbi graves**
+ -   Signs of lipophilia (signum, i n.; lipophilia, ae f.) **Signa lipophiliae**
+ -    I see serious injury (vulnus, vulneris n.; gravis, e; videre)  **Vulnus grave video**
+ -    Causes of antenatal death (mors, mortis f. ; antenatalis, e) **Causae mortis antenatalis**
+ -    As much as necessary.  **Quantum satis (q.s.)**
+ -    Prepare (pl.; + Acc) an inhalation! (praeparare; inhalatio, inhalationis f.)   **Praeparate inhalationem!**
+ -    Give in tablets! Give in ampoules!   **Da in tabulettis! Da in ampullis!/E.g. D. in tab. D. in amp.**
+ -    High doses of nicotinic acid (acidum, i n.;  nicotinicus,a,um; dosis, is f; magnus,a,um)   **Doses magnae acidi nicotinici**
+ - Injections of insulin (insulinum, i n,; injectio, injectionis f.) **Injectiones insulini**
+ - Take: 0.5 grams of pure phenol. (Phenolum, i n.; purus,a,um)  **Rp.: Phenoli puri 0.5**
+ - Give in such doses. Mix, give, designate. **Da tales doses. Misce. Da. Signa. = D.t.d. M.D.S.**
+ -  The causes of artificial feeding are different (causa, ae f; alimentatio, alimentationis f.; artificālis, e ; varius, a, m; esse) **Causae alimentationis artificalis variae sunt.**
+
+
+### Declensions
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/38654269-297b-4bf9-b4d2-4e5779976dcc)
+
+
+### Abbreviations 
+
+|In Latin | Abbreviation | English|
+|---------|--------------|----------|
+|Acidi | Ac | Acid |
+| Ampulla | amp., ampull. | ampoule |
+| ana | āā | in equal parts, by |
+| anhydricus | anhydr. | waterless|
+| aqua | aq. | water| 
+| aqua destillata | aq. dist. |distilled water |
+| cum | c. | with | 
+| Da tales doses; Dentur tales doses | d.t.d | give such doses, to be given such doses|
+| Da in vitro/scatula | D. in virt./scat. | to be given in dark/glass container |
+| Globulus | glon. | pellet |
+| Gutta, guttae | gtt. | droplet, droplets| 
+| Guttas | gtts. | droplets acc. pl| 
+| Herba | hb. | tops, grass| 
+| In ampullis | in amp., ampull. | in ampoules | 
+| Infusum | inf. | infusion| 
+| In capsulis | in caps. | in capsules |
+| In tabulettis | in tabltt. | in pellets| 
+| Linimentum| lin. | liquid ointment, liniment | 
+| Liquor, liquids | liq. | liquid element, fluidal| 
+| Massa pilularum | m. Pilularum | mass of pillules | 
+| Misce. Da. Signa. / Misceatur, Detur, Signetur.| M.D.S | mix, give, designate| 
+| Misce fiat | M. fiat | mix, let it become| 
+| Mixtura | M | mixture | 
+| Mucilago| Muc. | mucus| 
+| Numero| N. | In number | 
+| Oleum | ol. | oil |
+| pars, partes | Prs. | part, parts| 
+| Recipe | Rp. | Recipe |
+| Repete, repetatur | repet. | repeated| 
+| Seu, sive | s. | or 
+| Succus | sicc. | dry 
+| Simplex | simpl. | Simple
+| Sirupus | Sir. | syrup
+| Solution | sol. | solution 
+| Species | Spec. | herbal tea
+| spiritus | spir. | alcohol 
+| sublimatus | subl. | sublimated
+| tabuletta, tabulettae | tab., tabul.| pill; pills
+| tales | t. | such 
+| tinctura | t-ra., tinct., tct.| tincture 
+| unguentum | ung. | ointment 
+| verte | V. | reverse 
+
+### Collocations 
+
+
+- White tablets (tabuletta, ae f. / albus, a, um)  **Albae tabulattae**
+- Good doctors (medicus, i m. / bonus, a, um) **Boni Medici**
+- Good help (auxilium, i n.  / bonus, a, um) **Auxilium Bonum**
+- Correct mehods ( methodus, i f. / rectus, a, um)  **Methodi rectae**
+- Bitter drops (gutta, ae f / amarus, a, um) **Guttae amarae** 
+- Give (sg. pers. sg.) in tablets! (dare / tabuletta, ae f. / in) **Da in tabulatis (ablative)**
+- Do not put (sg. pers. sg.) in a warm place!  (ponere / locus, i m./ calidus, a, um / in) **Noli ponere in loco calido**
+- Reasons of diseases (causa, ae f./ morbus, i m.) **Causae morborum ( 变格 of 后面的词）**
+- Doctor knows the reason (acc. sg.) of disease (medicus, i m/ scire/ causa, ae f. / - morbus, i m.)  **Medicus scit causam morbi**
+- Turn (2nd pers. sg.) the page (acc. sg.)! (vertere / pagina, ae f.)**Verte paginam**
+- I am being ill (laborare)  **Laboro**
+- Do not harm! (2nd pers. sg.) (nocēre) **Noli nocere!**
+- Against diseases we use medicaments (acc. pl.). (contra + Acc. / morbus, i m. / adhibēre / medicamentum, i n. ) **Contra morbos adhibemus medicamenta.**
+- Friendship is beautiful (amicitia, ae f / esse / pulcher, chra, chrum)
+**Amicitia est pulchra.**
+
+
