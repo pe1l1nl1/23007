@@ -1,3 +1,26 @@
+
+### Collocation
+
+- Healthy body(corpus, corporis n.; sanus, a, um)
+
+The translation of "healthy body" using the given vocabulary in Latin is:
+
+```
+ Corpus sanum
+```
+**In this translation:**
+
+"Corpus" is the nominative singular of "corpus," meaning "body."
+"Sanum" is the nominative singular neuter form of "sanus," meaning "healthy" (adjective agreeing with "corpus" in gender and number).
+
+- Make the collocations with «contra»! Stomatītis, stomatitidis f. inflammation of the mouth
+
+```
+ Contra stomatitidem curare: Treat against stomatitis.
+ Contra stomatitidem praeservare: Prevent against stomatitis.
+ Contra stomatitidem medicari: Medicate against stomatitis.
+ Contra stomatitidem protegere: Protect against stomatitis.
+```
 ### Latin Part of a prescription 
 
 
