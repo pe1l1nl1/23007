@@ -48,6 +48,9 @@ Rp.: Acidi borici 3.0  | **Ac.**  |
 |Rp.: Bromisovāli 0,3 ||
 | Aminophenazōni 0,25||
 |M.D.S (=mix) Pa (=give) 1 pulverim pusstundu pirms guletiešanas| powder an hour before bedtime |
+| Mix, let it become rectal suppository. Give in such doses in number of 30.   | M.f supp. rect.  D.t.d N. 30|
+
+
 
 
 ### Revising Material 
@@ -66,6 +69,7 @@ Rp.: Acidi borici 3.0  | **Ac.**  |
 |linimentum, i m.|linimenti| linimentorum|
 |morbus, i m.| morbi| morbōrum|
 |intestinum, i n.|intestina|intestorum|
+
 
 
  
