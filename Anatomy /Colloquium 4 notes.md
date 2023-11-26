@@ -19,7 +19,8 @@
 
 # Musculi thoracis 
 ## Musculi superficialis thoracis 
-
+ <img style="float: right;" src="https://github.com/pe1l1nl1/23007/assets/19546253/d0f77b30-cf92-41c1-9706-e2886ddffd7c">
+ 
 ### Musculus pectoralis major 
 1. **Pars clavicularis**
 - o. Extremitas sternalis claviculare  
@@ -32,21 +33,21 @@
 - f. Adduction brachii, Rotation Interna brachii, Flexio brachii - pars clavicularis 
 
 ### Musculus pectoralis minor
-o. Facies externa costarum 2-5
-i. processus coracoideus scapulae 
-f. moves scapula downwards and medially
-in case of hyperventilation, breathing elevates the ribs
+- o. Facies externa costarum 2-5
+- i. processus coracoideus scapulae 
+- f. moves scapula downwards and medially
+- in case of hyperventilation, breathing elevates the ribs
 
 ### Musculus subclavivius 
-o. facies superior costae prima 
-i. facies inferior claviculae
-f. elevatio costae prima and depressio claviculare 
+- o. facies superior costae prima 
+- i. facies inferior claviculae
+- f. elevatio costae prima and depressio claviculare 
 
 ### Musculus serratus anterior (goes under scapulare) 
-o. facies externae costarum 2-9 
-i. margo medialis et angulus inferior scapulae
-f. rotatio scapulae et elecation brachii 
-Fix scapula to thorasic wall 
+- o. facies externae costarum 2-9
+- i. margo medialis et angulus inferior scapulae
+- f. rotatio scapulae et elecation brachii
+- Fix scapula to thorasic wall 
 
 
 # Musculi Profundi thoracis 
