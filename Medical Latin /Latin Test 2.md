@@ -47,5 +47,25 @@ Rp.: Acidi borici 3.0  | **Ac.**  |
 | M.f.pulvis =  Misce, [ut] fiat pulvis | mix, let it become powder |
 |Rp.: Bromisovāli 0,3 ||
 | Aminophenazōni 0,25||
-|M.D.S (=mix) Pa (=give) 1 pulverim pusstundu pirms guletiešanas| powder hald and hour before bedtime |
+|M.D.S (=mix) Pa (=give) 1 pulverim pusstundu pirms guletiešanas| powder an hour before bedtime |
+
+
+### Revising Material 
+
+- gutta, are f. The "ae" before "f." typically indicates the genitive singular form of a feminine noun in the first declension. 
+
+
+| Latin Noun     | Nominative plural = N.pl      | Genetive plural = G. Pl |
+|----------------|-----------|------|
+|skeleton (=sceletus), i n.  |sceleta | sceletorum|
+|crystallus, i f.|||
+|methods, i f.|||
+|gutta, ae f.|gutta|guttae|
+|medicus, i m.|medici|medicorum|
+|oculista, ae m.|||
+|linimentum, i m.|linimenti| linimentorum|
+|morbus, i m.| morbi| morbōrum|
+|intestinum, i n.|intestina|intestorum|
+
+
  
