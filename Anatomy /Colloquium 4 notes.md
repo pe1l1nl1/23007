@@ -1,3 +1,22 @@
+# General things about Muscles
+
+### Muscle Movement Terms: 
+
+- Flexion -decreasing the angle of a joint
+- Extension -increasing the angle of a joint
+- Rotation -turning a joint
+- Abduction -move away from the midline
+- Adduction -move toward the midline
+
+### Two types of contractions: 
+- Isometric - same length (no movement)
+- Isotonic - same force (something moves) 
+
+### Skeletal muscles attach to 2 bones 
+- Origin - stationary bone
+- Insertion - bone that moves 
+
+
 # Musculi thoracis 
 ## Musculi superficialis thoracis 
 
