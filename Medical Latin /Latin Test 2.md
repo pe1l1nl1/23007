@@ -41,7 +41,11 @@ Rp.: Acidi borici 3.0  | **Ac.**  |
 
 | Recipe in Latin      | Translation   |  Shortened |
 |----------------------|-----------|-----|
-| D.S. (Da. Signa.)| Give. Designate.  | |
+| D.S. (Da. Signa.)| Give. Designate.  | D.S. indicating the doses, when, how often and how the medicinal products shall be used|
 | D. in ampullis. D. in tabulettis.    |  D. in amp. D. in tab.| 
-| M.D.S (Misce. Da. Signa)| Mix, give, designate 
+| M.D.S (Misce. Da. Signa)| Mix, give, designate, let it be mixed, given designated |
+| M.f.pulvis =  Misce, [ut] fiat pulvis | mix, let it become powder |
+|Rp.: Bromisovāli 0,3 ||
+| Aminophenazōni 0,25||
+|M.D.S (=mix) Pa (=give) 1 pulverim pusstundu pirms guletiešanas| powder hald and hour before bedtime |
  
