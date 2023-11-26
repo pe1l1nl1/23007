@@ -222,4 +222,49 @@ D.t.d. N. 6 S.
 - Friendship is beautiful (amicitia, ae f / esse / pulcher, chra, chrum)
 **Amicitia est pulchra.**
 
+### Write in Latin!
+
+- Urgently! Cito!
+- Immediately! Statim!
+- Frontal bone (frontalis, e; os, ossis n.) **os frontale**
+- Fracture of frontal bone (fractura, ae f.; os, ossis n.; frontalis, e) **Fractura ossis frontalis**
+- Short, long and broad muscles. (musculus, i m.; brevis, e; longus, a, um; latus, a, um)**Musculi breves, longi et lati**
+- Make ointment against eczema! (praeparare + Acc.; unguentum, i n.; eczēma, eczēmatis n.)**Praepara unguentum contra eczema!**
+- Signs of asthma (asthma, asthmat-is n; signum, i n.) **Signa asthmatis**
+Scarlatin is a contagious disease. (scarlatīna, ae f.; morbus, i m.; contagiosus, a,um)
+**Scarlatina morbus contagiosus est**
+- Toxic doses  (dosis, is f.; toxicus II,a I,um II) **doses toxicae**
+- Signs of acute nephritis (acutus, a, um; nephritis, nephritidis f. ; signum, i n.)**Signa nephritidis acutae**
+- Spinal cord  (medulla, ae f; spinalis, e)**Medulla spinalis**
+- Hydrobromic acid (G.sg.!) (acidum, i n.; hydrobromicus,a,um II)**Acidi hydrobromici**
+- Mixture is compound medication.  (medicamentum, i n.; compositus, a, um; mixtura, ae f.) **Mixtura medicamentum compositum est.**
+- Extracts are thick, dry and liquid (extractum, i n.; spissus,a,um ; siccus, a, um; fluidus, a, um)**Extracta spissa, sicca et fluida sunt**
+- Lifting muscles (musculus, i m; levator, levator-is m.)**Musculi levatores**
+- Warm milk ( calidus, a, um; lac, lact-is n.)**Lac calidum**
+- Fine powder (pulvis, is f.; subtīlis, e) pulvis subtilis
+- Volatile liniment (linimentum, i n.; volatilis, e) **linimentum volatile**
+- Unmoving man (homo, hominis m.; immobilis, e)**homo immobilis**
+- Joint cavity (cavum, i n.; articularis, e) **cavum articulare**
+- Soluble streptocide (Streptocīdum, i n.; solubilis,e) **Streptocidum solubile**
+- Occipital bone (os, ossis n.; occipitālis, e) **os occipitale**
+- Temporal bone (os, ossis n.; temporālis, e) **os temporale**
+- Take 25 grams of breast elixir! (recipere, elixir, elixīris n.; pectorālis, e)**Rp.:   Elixiris pectoralis  25.0**
+- Take 10 grams of boric acid! (recipere , acidum, i n.;  Boricus,a,um)**Rp.: Acidi Borici 10.0**
+- Artificial feeding (alimentatio, alimentationis f.; artificālis, e)**Alimentatio artificalis**
+
+### Indicate the group of the 3rd declention nouns!
+- apis, apis f. *bee III*
+- emulsio, emulsiōnis f. *emulsion I*
+- stipes, stipitis m.	*trunk I*
+- sanguis, sanguinis m. *blood; gr. Haima I*
+- finis, finis m.  *end III*
+- libido, libidinis f.	*desire I*
+- infans, infant - is m., f.	*child; gr. pais, paidós III*
+- mucilāgo, mucilāginis f.	*mucilage I*
+- nux, nucis  f.	*nut I*
+- orbis, orbis m. *circle III*
+- larynx, laryngis m. (gr.) *larynx III*
+
+
+
 
