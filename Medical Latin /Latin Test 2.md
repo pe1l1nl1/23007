@@ -44,7 +44,7 @@ the abbreviation "gtt."
 | Rp.: Olei Menthae piperitae 10,0 | **Ol.**      |
 | Rp.: Linimenti Synthomycīni 5% - 30,0      | **Lin.** | 
 | Rp.: Extracti Convallariae sicci 0,1 | **Extr.** and **sicc.** |
-| Rp.: Unguenti Oxytetracyclīni hydrohloridi 1% - 10,0 | **Ugn.** |
+| Rp.: Unguenti Oxytetracyclīni hydrohloridi 1% - 10,0 | **Ung.** |
 
 
 - if two or more medicinal product ingredients shall be take in equal amounts, write after the last ingredients **"āā"** or "ana" = in equal parts
