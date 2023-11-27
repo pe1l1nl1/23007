@@ -184,6 +184,7 @@ D.t.d. N. 6 S.
 | Numero| N. | In number | 
 | Oleum | ol. | oil |
 | pars, partes | Prs. | part, parts| 
+| Radix | rad.| root |
 | Recipe | Rp. | Recipe |
 | Repete, repetatur | repet. | repeated| 
 | Seu, sive | s. | or 
