@@ -24,21 +24,18 @@ The translation of "healthy body" using the given vocabulary in Latin is:
 ### Latin Part of a prescription 
 
 
--  pro me = for me
--  ad usum proprium = for personal use
+- for me **pro me**
+-  for personal use *ad usum proprium*
 -  invocatio, Rp.: (recipe -take!)/ordinatio
 -  Praescriptio s. Designatio materiarum, after "Rp.:" **the name with a capital letter in Latin genitive case**, dose of the form of medicinal products and number of doses.
--  Rp.: Sirupi Glycyrrhizae 100,0
--  Take 100.0 grammas of syrup of sweet root
+- Take 100.0 grammas of syrup of sweet root  **Rp.: Sirupi Glycyrrhizae 100,0**
 -  the number of drops shall be designated with Roman numerals, writing it after
-the abbreviation "gtt."
+the abbreviation "**gtt.**"
 - **cito!** urgently
 - **statim** immediately
 - **verte** turn around/ turn the page
-- Medicamentum mutationes permisit = Zāles atļauts aizvietot = substituted medicinal products
-  
-
-  
+- **Medicamentum mutationes permisit** = Zāles atļauts aizvietot = substituted medicinal products
+    
 | Recipe in Latin      | Shortened   | 
 |----------------------------------|-----------|
 | Rp.: Olei Menthae piperitae 10,0 | **Ol.**      |
@@ -62,8 +59,8 @@ Tincturae amarae **āā** 25.0  | in equal amounts
 Rp.: Acidi borici 3.0  | **Ac.**  |
  Aquae destillatae ad 100.0  |  **Aq.** and **destill.**|**ad** shall be used before the numerical amount of designation
 
-| Recipe in Latin      | Translation   |  Shortened |
-|----------------------|-----------|-----|
+| Recipe in Latin      |   Shortened |
+|----------------------|-------------|
 | D.S. (Da. Signa.)| Give. Designate.  | D.S. indicating the doses, when, how often and how the medicinal products shall be used|
 | D. in ampullis. D. in tabulettis.    |  D. in amp. D. in tab.| 
 | M.D.S (Misce. Da. Signa)| Mix, give, designate, let it be mixed, given designated |
