@@ -1,5 +1,5 @@
 
-# Present and Past tense
+# Present, Past tense, Future Tense
 
 - Es esmu **no** Rīga**s**. ( Rigas is in Genitive).
 - Es studēju medicīnu (medicīnu is in Accusative).
@@ -16,13 +16,21 @@ jus | ejat |  gajat | iesiet | esat | bijat | busiet|busit
 vini/vinas | iet  | gaja | ies|ir | bija | bus |
 
 
-# Laiks (time and weather) 
+# Laiks (time) 
 | Question | Translation | Answer | 
 |------|-----|-----|
 | Cir ir pulkstenis?|  What time is it?| | | 
 | |  Pulkstenis ir septini. 7.00 | Pulkstenis ir **pus**astoni. 7.30 (half to eight)|| 
 | Cikos?    | At what time? | 
 | | Pulksten devinos. *9.00* |  Pulksten pusdevionos. *8.30*
+| | Pulksten viens 1:00 | Piecas pari diviem 2:05
+|| Desmit pari trijiem 3:10 | piecpatdsmit pari cetriem 4:15
+|| Divdesmit pari pieciem | divdesmit piecas pari sesiem 
+|| astoni trisdemsmit piecas 
+|| bez divdesmit desmit 
+|| bez piecpadsmit vienpadsmit
+|| bez desmit divpadsmit
+|| bez piecam viens 
 
 **Ikdienas aktivitātes (Nom. aktivitāte) Everyday activities**
 - **Sveiks! Ejam uz kino?** (hi, shall we go to the movies?)
@@ -93,24 +101,30 @@ Man nav jautājumu. (Ģen. )
 
 # Months and Week
 
-|Latvian | English| Latvian | English
-|-------- |-------| -------| ---- |
-|janvāris | Jan  | pirmdiena | monday |
-| februāris | Feb | otrdiena | tuesday
-| marts | March | trešdiena | wednesday
- aprīlis| April | ceturtdiena | thursday
- maijs | May |  piektdiena | friday
-jūnijs | June |  sestdiena | saturday
-jūlijs | July | svētdiena | sunday
-augusts | Aug | vakar | yesterday
-septembris | sep | 	šodien | today
-oktobris | oct | 	rīt | tomorrow
-novembris | novem
-decembris | decem
-pāgājušomēnes | last month 
-šomēnes | this month 
-nākammēnes  | Next month 
+|Latvian | English| Latvian | English | Numbers 
+|-------- |-------| -------| ---- | ----| --
+|janvāris | Jan  | pirmdiena | monday | nulle 0
+| februāris | Feb | otrdiena | tuesday | viens/a 1
+| marts | March | trešdiena | wednesday | divi/as 2
+ aprīlis| April | ceturtdiena | thursday | tris 3
+ maijs | May |  piektdiena | friday | cetri /cetras 4
+jūnijs | June |  sestdiena | saturday | pieci/piecas 5
+jūlijs | July | svētdiena | sunday  | sesi/sesas 6
+augusts | Aug | vakar | yesterday | septini/septinas 7
+septembris | sep | 	šodien | today | astoni/-as 8
+oktobris | oct | 	rīt | tomorrow | devini/-as 9
+novembris | novem | | | desmit 10
+decembris | decem ||| vienpadsmit 11
+pāgājušomēnes | last month ||| divdesmit 20
+šomēnes | this month ||| divdesmit viens 21
+nākammēnes  | Next month ||| smits 100
 
+# other words related to time
+|latvian| english| latvian | english | latvian | english | Lat | Eng 
+|---|--|--|--|--|--|--| --|
+laiks | time | datums | date |diena | day | nedela | week |menesis | month 
+year | gads | spring | pavasaris | vasara |summer | rudens| autumn| ziema| winter| 
+this year | sogad | next year | nakamgad | last month | pagajusomenes | this month | somenes | next month | nakammenes| 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/8d47f6c3-e856-4ff5-a1b1-b1945d60e8dc)
 
 ### Questions 
