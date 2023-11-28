@@ -1,14 +1,19 @@
 
 # Present and Past tense
 
-|  | iet (to go) | past tense | but (to be) | past tense|
-|--- |-----|-----|-------|-----|
-es|  eju  |  gaju | esmu | biju 
-tu | ej |  gaji | esi | biji
-vins/vina | iet  |  gaja | ir | bija 
-mes| ejam |  gajam | esam | bijam
-jus | ejat |  gajat  | esat | bijat 
-vini/vinas | iet  | gaja | ir | bija 
+- Es esmu **no** Rīga**s**. ( Rigas is in Genitive).
+- Es studēju medicīnu (medicīnu is in Accusative).
+
+
+ 
+|  | iet (to go) | past tense | but (to be) | past tense| future tense|
+|--- |-----|-----|-------|-----|----|
+es|  eju  |  gaju | esmu | biju |busu|
+tu | ej |  gaji | esi | biji | busi|
+vins/vina | iet  |  gaja | ir | bija |bus
+mes| ejam |  gajam | esam | bijam | busim
+jus | ejat |  gajat  | esat | bijat | busiet|busit
+vini/vinas | iet  | gaja | ir | bija | bus |
 
 
 
