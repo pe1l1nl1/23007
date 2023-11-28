@@ -25,12 +25,7 @@ vini/vinas | iet  | gaja | ies|ir | bija | bus |
 | | Pulksten devinos. *9.00* |  Pulksten pusdevionos. *8.30*
 | | Pulksten viens 1:00 | Piecas pari diviem 2:05
 || Desmit pari trijiem 3:10 | piecpatdsmit pari cetriem 4:15
-|| Divdesmit pari pieciem | divdesmit piecas pari sesiem 
-|| astoni trisdemsmit piecas 
-|| bez divdesmit desmit 
-|| bez piecpadsmit vienpadsmit
-|| bez desmit divpadsmit
-|| bez piecam viens 
+|| Divdesmit pari pieciem 5.20 | astoni trisdemsmit piecas 8.35 
 
 **Ikdienas aktivitātes (Nom. aktivitāte) Everyday activities**
 - **Sveiks! Ejam uz kino?** (hi, shall we go to the movies?)
