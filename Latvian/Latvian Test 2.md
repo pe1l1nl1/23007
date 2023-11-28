@@ -6,14 +6,14 @@
 - Es eju **uz** universitati, slimnicu, darbu etc. Uz kurieni tu ej? 
 
  
-|  | iet (to go) | past tense | but (to be) | past tense| future tense|
-|--- |-----|-----|-------|-----|----|
-es|  eju  |  gaju | esmu | biju |busu|
-tu | ej |  gaji | esi | biji | busi|
-vins/vina | iet  |  gaja | ir | bija |bus
-mes| ejam |  gajam | esam | bijam | busim
-jus | ejat |  gajat  | esat | bijat | busiet|busit
-vini/vinas | iet  | gaja | ir | bija | bus |
+|  | iet (to go) | past tense | future tense |  but (to be) | past tense| future tense|
+|--- |-----|-----|---|------|-----|----|
+es|  eju  |  gaju |iesu| esmu | biju |busu|
+tu | ej |  gaji |iesi |esi | biji | busi|
+vins/vina | iet |ies |  gaja | ir | bija |bus
+mes| ejam |  gajam | iesim| esam | bijam | busim
+jus | ejat |  gajat | iesiet | esat | bijat | busiet|busit
+vini/vinas | iet  | gaja | ies|ir | bija | bus |
 
 
 # Laiks (time and weather) 
