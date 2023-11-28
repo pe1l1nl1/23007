@@ -16,10 +16,8 @@
 - Origin - stationary bone
 - Insertion - bone that moves 
 
-
 # Musculi thoracis 
 ## Musculi superficialis thoracis 
- <img style="float: right;" src="https://github.com/pe1l1nl1/23007/assets/19546253/d0f77b30-cf92-41c1-9706-e2886ddffd7c">
  
 ### Musculus pectoralis major 
 1. **Pars clavicularis**
