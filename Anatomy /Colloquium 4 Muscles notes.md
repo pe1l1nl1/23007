@@ -20,7 +20,8 @@
 |-----|------------|--------| 
 | aponeurosis | a thin sheet of tissue that covers a muscle or connects a muscle to the part it moves |![image](https://github.com/pe1l1nl1/23007/assets/19546253/8ec1c730-f024-4ef4-bcd2-e5d2bf6902c6)|
 |Serratus |one of the three muscles of the main part of the body. It is shaped like a saw (= a long cutting tool with points along one edge) and starts in the spine or the ribs.| ![image](https://github.com/pe1l1nl1/23007/assets/19546253/60e07477-9e62-4b23-be9c-59090747bc37)|
-| obliquus | a Latin word meaning "sloping" or "slanted," used in medical names and descriptions
+|Obliquus | a Latin word meaning "sloping" or "slanted," used in medical names and descriptions ||
+|Transeverse|in a position or direction that is at an angle of 90° to something else:|
 
 # Musculi thoracis 
 ## Musculi superficialis thoracis 
