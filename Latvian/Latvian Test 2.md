@@ -2,7 +2,7 @@
 
 # Present and Past tense
 
-|  | iet - to go | past tense | but- to be | past tense|
+|  | iet (to go) | past tense | but (to be) | past tense|
 |--- |-----|-----|-------|-----|
 es|  eju  |  gaju | esmu | biju 
 tu | ej |  gaji | esi | biji
