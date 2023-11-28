@@ -3,7 +3,7 @@
 
 - Es esmu **no** Rīga**s**. ( Rigas is in Genitive).
 - Es studēju medicīnu (medicīnu is in Accusative).
-
+- Es eju uz universitati, slimnicu, darbu etc. Uz kurieni tu ej? 
 
  
 |  | iet (to go) | past tense | but (to be) | past tense| future tense|
