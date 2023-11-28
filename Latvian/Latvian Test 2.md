@@ -101,8 +101,8 @@ Man nav jautājumu. (Ģen. )
 
 # Months and Week
 
-|Latvian | English| Latvian | English | Numbers 
-|-------- |-------| -------| ---- | ----| --
+|Latvian | English| Latvian | English | Numbers|
+|-------- |-------| -------| ------- | ----|
 |janvāris | Jan  | pirmdiena | monday | nulle 0
 | februāris | Feb | otrdiena | tuesday | viens/a 1
 | marts | March | trešdiena | wednesday | divi/as 2
