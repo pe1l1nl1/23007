@@ -119,6 +119,31 @@ Uz kurieni tu gāji otrdien?|Otrdien es devos uz veikalu.| Where did you go on T
 Uz kurieni tu iesi rīt?|Rīt es dosies uz universitāti.|Where will you go tmr?|
 Vai sestdien un svētdien tu būsi Rīgā?|Jā, es būšu Rīgā sestdien un svētdien.| Will you be in Riga on Saturday and Sunday?|
 
+# Construct the sentences, using the words given! 
+
+Es, but, universitate - Es esmu universitātē.
+| Words | Sentence |
+|---------|------|
+|Pašlaik, mēs, iet, uz, sporta zāle. |Pašlaik mēs ejam uz sporta zāli.|
+| Uz kurieni, tu, iet? Vai, tu, tagad, iet, uz, universitāte? |Vai, šodien, tu, būt, eksāmens? Uz kurieni tu ej? Vai tu tagad ej uz universitāti? Vai šodien tu būsi eksāmenā? Uz + akuzatīvs!!!!|
+|Es, parasti, neiet, uz, sporta zāle, jo (= because), es, patikt, sportot, parks. | Es parasti neeju uz sporta zāli, jo man patīk sportot parkā.|
+| Vakar, mēs, iet, uz, pludmale, jo, laiks, būt (it was), ļoti, labs. | Vakar mēs gājām uz pludmali, jo laiks bija ļoti labs.|
+| No kurienes, jūs, būt? Vai, jūs, būt, no, Parīze? | No kurienes jūs esat? Vai jūs esat no Parīzes?|
+| Parasti, ziema (when?), es, sportot, ārā. Es, patikt, slēpot, un, slidot. Es, ļoti, labi, slēpot, un slidot. Ziema, es, parasti, neceļot. | Parasti ziemā es sportoju ārā. Man patīk slēpot un slidot. Es ļoti labi slēpoju un slidoju. Ziemā es parasti neceļoju.|
+| No kurienes, tu, būt? Vai, tu, būt, no, Lietuva? Vai, tu, arī, pašlaik, dzīvot, Lietuva? | No kurienes tu esi?Vai tu esi no Lietuvas? Vai tu arī pašlaik dzīvo Lietuvā?|
+| Kur, tu, dzīvot? Vai, tu, dzīvot, centrs? | Kur tu dzīvo? Vai tu dzīvo centrā?
+| Vai, rīt, jūs, būt, darbs?Vai jūs rīt būsiet darbā? |  ( Vai tu rīt būsi darbā? )  Kur? Lokatīvs.|
+| Viņš, iet, uz, veikals, katru dienu (katru dienu = every day).| Viņš iet uz veikalu katru dienu.  Uz + ACC.!!! |
+
+# Correct mistakes in the text 
+
+Ivo ir no Igauni**ja**sā. Viņš tagad vairs (=anymore) nedzīvo Igauni**jā** ~~as~~, viņš dzīvo Rīgā, Latvijā, jo viņš studē Latvij**as** Universitātē.
+Ivo studē~~ju~~ medicīnu. Ivo tēvs ir ārsts. Ivo mamma nav ārste, viņa strādā**ju** skolā. Viņa **ir** ~~esmu~~ skolotāja. Vai jūs arī studējat medicīnu? Un kur jūs studējat medicīnu? 
+Ivo runā mazliet vāciski, angliski, franciski. Ivo jau ļoti labi runā~~**ju**~~ latviešu valod**ā**.
+Viņ**amš** patīk studēt arī valodas.
+Ivo arī strādā, viņš strādā kafejnīcā Rīga**s** centrā.  
+Vasarā Ivo plāno (plānot – to make some plans) dzīvot Liepājā, jo viņ**amš** patīk Liepāja**s** pludmale (pludmale – beach). Viņ**am**~~s~~ patīk sērfot, viņ**š**~~am~~ ļoti labi sērfo.
+
 # Fill in 
 
 Sveicināti! Iepazīsimies! Mani sauc Zane, es __esmu____________ (būt) no  ___Smiltenes_____________________ (Smiltene). Smiltene ir neliela pilsēta ___________Latvijā_______ (Latvija). Bet tagad es __dzivoju________________ (dzīvot) ______Rigā_________ (Rīga), jo (=because) ______studeju___________________ (studēt) ______Muzikas Akademijā_______ (Mūzikas Akadēmija). 
