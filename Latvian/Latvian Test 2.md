@@ -20,7 +20,7 @@ vini/vinas | iet  | gaja | ies|ir | bija | bus |
 | Question | Translation | Answer | 
 |------|-----|-----|
 | Cir ir pulkstenis?|  What time is it?| | | 
-| |  Pulkstenis ir septini. 7.00 | Pulkstenis ir **pus**astoni. 7.30 (puoli kahdeksan)|| 
+| |  Pulkstenis ir septini. 7.00 | Pulkstenis ir **pus**astoni. 7.30 (half to eight)|| 
 | Cikos?    | At what time? | 
 | | Pulksten devinos. *9.00* |  Pulksten pusdevionos. *8.30*
 
