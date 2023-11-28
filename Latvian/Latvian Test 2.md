@@ -1,7 +1,7 @@
 
 # Present, Past tense, Future Tense
 
-- Es esmu **no** Rīga**s**. ( no + Gen).
+- Es esmu **no** Rīga**s**. **( no + Gen).**
 - Es studēju medicīnu (medicīnu is in Accusative).
 - Es eju **uz** universitati, slimnicu, darbu etc. Uz kurieni tu ej? **(Uz + acc.)**
 
