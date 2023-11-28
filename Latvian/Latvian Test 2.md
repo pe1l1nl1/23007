@@ -1,5 +1,15 @@
 # Grammar 
 
+# Present and Past tense
+
+|  | iet - to go | past tense | but- to be | past tense|
+|--- |-----|-----|-------|-----|
+es|  eju  |  gaju | esmu | biju 
+tu | ej |  gaji | esi | biji
+vins/vina | iet  |  gaja | ir | bija 
+mes| ejam |  gajam | esam | bijam
+jus | ejat |  gajat  | esat | bijat 
+vini/vinas | iet  | gaja | ir | bija 
 # Sentences 
 
 ### Months and Week
@@ -28,12 +38,12 @@ nākammēnes  | next month
 
 ### Questions 
 
-| Questions| Answers| English | 
-|------|----|-----|
-| Vai pirmdien tu biji universitātē?  ( - Un tu?) | | Were you at the university on Monday? ( - And you?)|
-| Vai otrdien tu gāji uz veikalu/universitāti/bibliotēku/sporta zāli/kafejnīcu/kino …?  ||Did you go to the store/university/library/gym/cafe/cinema on Tuesday?|
-| Vai tev patīk apmeklēt kino/muzejus …? | |Do you like going to the cinema/museums?|
-Vai tev patīk fotografēt pilsētu? ||Do you like photographing the city?|
-Uz kurieni tu gāji otrdien?|| Where did you go on Tuesday?|
-Uz kurieni tu iesi rīt?||Where will you go tmr?|
-Vai sestdien un svētdien tu būsi Rīgā?||Will you be in Riga on Saturday and Sunday?|
+| Questions| Answers| Q Eng | A Eng |
+|----------|--------|-------|----|
+| Vai pirmdien tu biji universitātē?  ( - Un tu?) | Jā, es biju universitātē pirmdien. ( - Un tu?) | Were you at the university on Monday? ( - And you?)|
+| Vai otrdien tu gāji uz veikalu/universitāti/bibliotēku/sporta zāli/kafejnīcu/kino …?  |Nē, es nebiju universitātē, bet es gāju uz veikalu/bibliotēku otrdien.|Did you go to the store/university/library/gym/cafe/cinema on Tuesday?|
+| Vai tev patīk apmeklēt kino/muzejus …? | Jā, man patīk apmeklēt kino un muzejus.|Do you like going to the cinema/museums?|
+Vai tev patīk fotografēt pilsētu? |Jā, man patīk fotografēt pilsētu.|Do you like photographing the city?|
+Uz kurieni tu gāji otrdien?|Otrdien es devos uz veikalu.| Where did you go on Tuesday?|
+Uz kurieni tu iesi rīt?|Rīt es dosies uz universitāti.|Where will you go tmr?|
+Vai sestdien un svētdien tu būsi Rīgā?|Jā, es būšu Rīgā sestdien un svētdien.| Will you be in Riga on Saturday and Sunday?|
