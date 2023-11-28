@@ -9,16 +9,18 @@ vins/vina | iet  |  gaja | ir | bija
 mes| ejam |  gajam | esam | bijam
 jus | ejat |  gajat  | esat | bijat 
 vini/vinas | iet  | gaja | ir | bija 
-# Sentences 
+
+
+
 
 # Laiks (time and weather) 
 **Ikdienas aktivitātes (Nom. aktivitāte) Everyday activities**
-- Sveiks! Ejam uz kino? (hi, shall we go to the movies?)
-- Sveika! Nē, man šodien nav laika. (nav + Ģen.) (no, I don't have time today) 
-- Sveiks! Ejam uz kino! (let's go to the movies!) 
-- Sveika! Jā, labi! Man šodien ir laiks. ( yes sure, i have time today) 
-- Šodien ir ļoti labs laiks! ( today the weather is very nice) 
-- Jā, es iešu ārā! Rīt laiks būs slikts, būšu mājās. ( yes, I'll go outside. Tomorrow the weather will be bad. I'll be at home.) 
+- **Sveiks! Ejam uz kino?** (hi, shall we go to the movies?)
+- **Sveika! Nē, man šodien nav laika.** (nav + Ģen.) (no, I don't have time today) 
+- **Sveiks! Ejam uz kino!**(let's go to the movies!) 
+- **Sveika! Jā, labi! Man šodien ir laiks.** ( yes sure, i have time today) 
+- **Šodien ir ļoti labs laiks!** ( today the weather is very nice) 
+- **Jā, es iešu ārā! Rīt laiks būs slikts, būšu mājās.** ( yes, I'll go outside. Tomorrow the weather will be bad. I'll be at home.) 
 
 **Dienas. (Nom. diena)**
 
@@ -55,27 +57,28 @@ vini/vinas | iet  | gaja | ir | bija
 
 # Questions 
 
-- Kad? (= when) Ziemā. Pavasarī. Vasarā. Rudenī. (Lokatīvs)
-- Ziemā man patīk slēpot.
-- Vasarā man patīk iet uz pludmali.
-- Rudenī es studēju.
-- Pavasarī es arī studēju. 
-- Pavasarī es ceļoju. Man patīk ceļot pavasarī.
-
-
 Jautājumi (jautājums)
 Man ir jautājums. I have a question. 
 Man nav jautājumu. (Ģen. )
 
 
-- Cik?  - how many, much?
-- Cik ilgi? – how long?
-- Cik pulkstenis? -  what time is it?
-- Cikos? -  at what time?
-- Kad? – when?  
-- Kur? – where?
-- Kāds datums ir šodien? – what is the date today?
-
+- **Cik?**  - how many, much?
+- **Cik ilgi?** – how long?
+- **Cik pulkstenis?** -  what time is it?
+- **Cikos?** -  at what time?
+- **Kas?** What? 
+- **Kad?** – when?  
+- **Kur?**– where?
+- **Kāds datums ir šodien?** – what is the date today?
+- **Kad?** (= when) Ziemā. Pavasarī. Vasarā. Rudenī. (Lokatīvs)
+- **Kad tu būsi mājās? Es būšu mājās drīz.** When will you be at home?
+- **Kad tu būsi universitātē? Es būšu universitātē pirmdien.** When will you be at the university? I will be at the university on Monday.
+- **Kur tu esi? Es visu laiku esmu mājās. Es visu dienu esmu mājās. Es visu dienu esmu darbā.** Where are you? I am at home all the time. I am at home all day. I am at work all day.
+- **Ziemā man patīk slēpot.** I like to ski in winter.
+- **Vasarā man patīk iet uz pludmali.** I like to go to the beach in the summer.
+- **Rudenī es studēju.** I study in autumn.
+- **Pavasarī es arī studēju**. I also study in spring.
+- **Pavasarī es ceļoju. Man patīk ceļot pavasarī.** I travel in spring. I like to travel in spring.
 
 # Months and Week
 
@@ -95,9 +98,7 @@ novembris | novem
 decembris | decem
 pāgājušomēnes | last month 
 šomēnes | this month 
-nākammēnes  | next month 
-
-
+nākammēnes  | Next month 
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/8d47f6c3-e856-4ff5-a1b1-b1945d60e8dc)
 
@@ -112,3 +113,91 @@ Vai tev patīk fotografēt pilsētu? |Jā, man patīk fotografēt pilsētu.|Do y
 Uz kurieni tu gāji otrdien?|Otrdien es devos uz veikalu.| Where did you go on Tuesday?|
 Uz kurieni tu iesi rīt?|Rīt es dosies uz universitāti.|Where will you go tmr?|
 Vai sestdien un svētdien tu būsi Rīgā?|Jā, es būšu Rīgā sestdien un svētdien.| Will you be in Riga on Saturday and Sunday?|
+
+# Fill in 
+
+Sveicināti! Iepazīsimies! Mani sauc Zane, es __esmu____________ (būt) no  ___Smiltenes_____________________ (Smiltene). Smiltene ir neliela pilsēta ___________Latvijā_______ (Latvija). Bet tagad es __dzivoju________________ (dzīvot) ______Rigā_________ (Rīga), jo (=because) ______studeju___________________ (studēt) ______Muzikas Akademijā_______ (Mūzikas Akadēmija). 
+No kurienes jūs ___esat______(būt)? Vai no ___Spanijas___ (Spānija)? Vai jūs _____runajat_____ (runāt) spāniski?
+Mēs _____________dzivojam___________ (dzīvot) Jūrmalā un katru dienu (everyday) ______ejam_____ (iet = to go ) uz _____jurā____________ (jūra= sea). Vai ___tev_____ (tu) patīk (=like) pludmale (beach) _Jurmalā______ (Jūrmala)?
+ Vai tu rīt  ___iesi_____ (iet) uz kino? Nē, es rīt  ________busu_____ (būt) mājās. 
+Ineses tagad ģimene ___________dzico______________ (dzīvot) ___________liela privatmajā________________ (liela privātmāja) Rīgas ______normale____________ (nomale). Inese ______strada_______________ (strādāt) Rīgas __________centra___ (centrs). Viņa ir ārste ____________poliknika____ (poliklīnika / kur?).
+Vakar mēs ______gajam___________________ (iet) uz ______kafejnicu______________ (kafejnīca) _____________Vecrigā_______________ (Vecrīga = old town / kur?).
+
+# Choose the correct answer
+
+1. Kad mēs iesim uz kino? When will we go to the cinema?
+- **Es nezinu. Yes I don’t know**
+- **Sestdien vai svētdien. Saturday or Sunday**
+- Sestdiena vai svētdiena.
+2. Vai tu tagad ej uz veikalu? Are you going to the store now? 
+- **Jā, tagad eju uz veikalu. (if I go to the store tagad= now) **
+- Jā, iešu.
+- **Nē, neeju.**
+3. Vai šodien ārā ir labs laiks? Is today a good day?
+- **Jā, ļoti labs!**
+- **Nē, nav.**
+- Nē, neir.
+
+4. Kur jūs tagad esat? Where are you now? 
+- **Universitātē. Un jūs?**
+- **Slimnīcā.**
+- **Ārā. (outside)**
+5. Iesim uz ______________ ? Mennään jonnekin...?  uz:in jälkeen accussatiivit 
+- **veikalu**
+- **fakultāti**
+- **palātu** (palāta – hospital ward – important word to memorise!!!)
+6.Man ļoti patīk apmeklēt  ___________________ . I really like to visit 
+- **sporta zāli**
+- **operu**
+- **kino**
+7.Ko tu studē ? What are you studying? 
+- **Medicīnu.**
+- Latvijas Universitātē.
+- **Latviešu valodu.**
+
+8.Ārsts apmeklē   ____ (ko?). 
+- **pacientus** (pacients is N.sg.) pl.
+- **pacientu.** （sgl.)
+- pacients.
+
+9. Šodien ir trešdiena, bet rīt būs _____. Today is wednesday but tomorrow will be ...
+- **ceturtdiena.** 
+- otrdiena.
+- ceturtdien.
+
+10. Mēs sportojam _____________________ . We play sports
+- **sporta zālē (in the gym)**
+- **parkā (in the park)**
+- mājās (at home)
+
+11. Uz kurieni jūs (= you) rīt _____________? Where do you go tomorrow?
+- iesi 
+- **būsiet (you will be)**
+- iesiet (I will be )
+
+12. Vai tu būsi skolotāja? Will you be a teacher?  
+- Jā, nebūšu. (Yes， I won’t)
+- **Nē, es būšu ārste. ( No, I’m going to be a doctor)**
+- Nē, es nebūšu ārsts. (No, I’m not going to be a doctor)
+
+13. Vai tu labi runā latviešu valodā? Do you speak Latvian well?
+- **Jā, latviešu valoda ir mana dzimtā valoda. Yes, Latvian is my mothertongue.**
+- **Nē, nedaudz. No, a little.**
+- Jā, mēs labi runājam latviski. Yes, we speak Latvian well.
+
+14. Vai viņi ir no Vācijas? Are they from Germany?
+- Jā, no Berlīne. Yes, from Berlin.
+- **Es nezinu. I don’t know.** 
+- Nē, viņi ir no Polija. No, they are from Poland.
+
+15. Vai tu strādā Itālijā? Do you work in Italy?
+- **Jā, es strādāju Romā. Yes, I work in Rome.**
+- Nē, no Itālijas. No, from Italy.
+- Jā, no  Itālijā. Yes, from Italy.
+
+
+
+# Listening comprehention 
+- uzdevums (= exercise). Klausies tekstu un aizpildi tukšās vietas! (= Listen to the text and fill in the blanks)
+
+Sveicināti! Iepazīsimies! Mani sauc Jānis Harju, esmu no Latvijas. Mana ______gimene______dzivo________ Rīgas centrā. Mana __mamma_______ ir latviete, bet _tevs_____ ir no Igaunijas. Mans tēvs labi ______runa_______ latviešu valodā, bet mamma **neruna**  igauniski. Es ari agrak dvivoju Riga, bet tagad dzivoju Liepaja. Esmu  architekts un daudz **stradaju**. Mans bralis ari ir arhitekts, vins paslaik (=now) **dzivo un strada** Pekina. Vianm tur loti patik. Driz (= soon) vins but majas - Latvija. Man ir **dzivoklis** Jurmala un privatmaja (=private house) Liepaja. Man loti **patik** jura (=sea) Liepaja. Vasara (= in the summer) man **patik** serfot (=surf), bet ziema es slepoju. Es braucu slepot uz Aluksni. Tur is laba sleposanas trase, skaiste ezers un vecs parks. Man loti **patik fotografet**, tas ir mans hobijs. Es bieži ___fotografeju____ vecas ēkas un kafejnīcas. Es ___nefotografeju cilvekus, man loti patik arhitektura__Riga__? Kur tu dzīvo un strādā? Kur tu gribētu dzīvot? Vai tu gribētu dzīvot Latvijā?
