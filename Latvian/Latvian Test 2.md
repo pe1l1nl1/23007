@@ -1,9 +1,9 @@
 
 # Present, Past tense, Future Tense
 
-- Es esmu **no** Rīga**s**. ( Rigas is in Genitive).
+- Es esmu **no** Rīga**s**. ( no + Gen).
 - Es studēju medicīnu (medicīnu is in Accusative).
-- Es eju **uz** universitati, slimnicu, darbu etc. Uz kurieni tu ej? 
+- Es eju **uz** universitati, slimnicu, darbu etc. Uz kurieni tu ej? **(Uz + acc.)**
 
  
 |  | iet (to go) | past tense | future tense |  but (to be) | past tense| future tense|
