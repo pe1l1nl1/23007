@@ -103,24 +103,24 @@ Man nav jautājumu. (Ģen. )
 
 |Latvian | English| Latvian | English | Numbers|
 |-------- |-------| -------| ------- | ----|
-|janvāris | Jan  | pirmdiena | monday | nulle 0
-| februāris | Feb | otrdiena | tuesday | viens/a 1
+|janvāris | Jan  | pirmdiena | monday | nulle 0 |
+| februāris | Feb | otrdiena | tuesday | viens/a 1|
 | marts | March | trešdiena | wednesday | divi/as 2
- aprīlis| April | ceturtdiena | thursday | tris 3
- maijs | May |  piektdiena | friday | cetri /cetras 4
-jūnijs | June |  sestdiena | saturday | pieci/piecas 5
-jūlijs | July | svētdiena | sunday  | sesi/sesas 6
-augusts | Aug | vakar | yesterday | septini/septinas 7
-septembris | sep | 	šodien | today | astoni/-as 8
-oktobris | oct | 	rīt | tomorrow | devini/-as 9
-novembris | novem | | | desmit 10
-decembris | decem ||| vienpadsmit 11
-pāgājušomēnes | last month ||| divdesmit 20
-šomēnes | this month ||| divdesmit viens 21
-nākammēnes  | Next month ||| smits 100
+| aprīlis| April | ceturtdiena | thursday | tris 3
+| maijs | May |  piektdiena | friday | cetri /cetras 4
+| jūnijs | June |  sestdiena | saturday | pieci/piecas 5
+| jūlijs | July | svētdiena | sunday  | sesi/sesas 6
+| augusts | Aug | vakar | yesterday | septini/septinas 7
+| septembris | sep | 	šodien | today | astoni/-as 8
+| oktobris | oct | 	rīt | tomorrow | devini/-as 9
+| novembris | novem | | | desmit 10
+| decembris | decem ||| vienpadsmit 11
+| pāgājušomēnes | last month ||| divdesmit 20
+| šomēnes | this month ||| divdesmit viens 21
+| nākammēnes  | Next month ||| smits 100
 
-# other words related to time
-|latvian| english| latvian | english | latvian | english | Lat | Eng 
+# Other words related to time
+|latvian| english| latvian | English | latvian | English | Lat | Eng 
 |---|--|--|--|--|--|--| --|
 laiks | time | datums | date |diena | day | nedela | week |menesis | month 
 year | gads | spring | pavasaris | vasara |summer | rudens| autumn| ziema| winter| 
@@ -245,9 +245,7 @@ Vakar mēs ______gajam___________________ (iet) uz ______kafejnicu______________
 - Nē, no Itālijas. No, from Italy.
 - Jā, no  Itālijā. Yes, from Italy.
 
-
-
-# Listening comprehention 
+# Listening comprehension 
 - uzdevums (= exercise). Klausies tekstu un aizpildi tukšās vietas! (= Listen to the text and fill in the blanks)
 
 Sveicināti! Iepazīsimies! Mani sauc Jānis Harju, esmu no Latvijas. Mana ______gimene______dzivo________ Rīgas centrā. Mana __mamma_______ ir latviete, bet _tevs_____ ir no Igaunijas. Mans tēvs labi ______runa_______ latviešu valodā, bet mamma **neruna**  igauniski. Es ari agrak dvivoju Riga, bet tagad dzivoju Liepaja. Esmu  architekts un daudz **stradaju**. Mans bralis ari ir arhitekts, vins paslaik (=now) **dzivo un strada** Pekina. Vianm tur loti patik. Driz (= soon) vins but majas - Latvija. Man ir **dzivoklis** Jurmala un privatmaja (=private house) Liepaja. Man loti **patik** jura (=sea) Liepaja. Vasara (= in the summer) man **patik** serfot (=surf), bet ziema es slepoju. Es braucu slepot uz Aluksni. Tur is laba sleposanas trase, skaiste ezers un vecs parks. Man loti **patik fotografet**, tas ir mans hobijs. Es bieži ___fotografeju____ vecas ēkas un kafejnīcas. Es ___nefotografeju cilvekus, man loti patik arhitektura__Riga__? Kur tu dzīvo un strādā? Kur tu gribētu dzīvot? Vai tu gribētu dzīvot Latvijā?
