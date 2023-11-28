@@ -16,9 +16,14 @@ jus | ejat |  gajat  | esat | bijat | busiet|busit
 vini/vinas | iet  | gaja | ir | bija | bus |
 
 
-
-
 # Laiks (time and weather) 
+| Question | Translation | Answer | 
+|------|-----|-----|
+| Cir ir pulkstenis?|  What time is it?| | | 
+| |  Pulkstenis ir septini. 7.00 | Pulkstenis ir **pus**astoni. 7.30 (puoli kahdeksan)|| 
+| Cikos?    | At what time? | 
+| | Pulksten devinos. *9.00* |  Pulksten pusdevionos. *8.30*
+
 **Ikdienas aktivitātes (Nom. aktivitāte) Everyday activities**
 - **Sveiks! Ejam uz kino?** (hi, shall we go to the movies?)
 - **Sveika! Nē, man šodien nav laika.** (nav + Ģen.) (no, I don't have time today) 
@@ -38,6 +43,7 @@ vini/vinas | iet  | gaja | ir | bija | bus |
 | **Piektdiena** 5. diena – piektā diena |(Kad? Piektdien) | piektdiena
 | **Sestdiena** 6.diena – sestā diena  | (Kad? Sestdien) | sestdiena
 | **Svētdiena** 7.svētā diena -  svēta diena|  (Kad? Svetdien) | svetdiena
+
 
 - **Svēts, svetigs** – holy, sacred (adjective)
 - **Svētki, svinibas**( 1. dekl) - holiday, festivity (noun)
@@ -138,7 +144,7 @@ Es, but, universitate - Es esmu universitātē.
 # Correct mistakes in the text 
 
 Ivo ir no Igauni**ja**sā. Viņš tagad vairs (=anymore) nedzīvo Igauni**jā** ~~as~~, viņš dzīvo Rīgā, Latvijā, jo viņš studē Latvij**as** Universitātē.
-Ivo studē~~ju~~ medicīnu. Ivo tēvs ir ārsts. Ivo mamma nav ārste, viņa strādā**ju** skolā. Viņa **ir** ~~esmu~~ skolotāja. Vai jūs arī studējat medicīnu? Un kur jūs studējat medicīnu? 
+Ivo studē~~ju~~medicīnu. Ivo tēvs ir ārsts. Ivo mamma nav ārste, viņa strādā**ju** skolā. Viņa **ir** ~~esmu~~ skolotāja. Vai jūs arī studējat medicīnu? Un kur jūs studējat medicīnu? 
 Ivo runā mazliet vāciski, angliski, franciski. Ivo jau ļoti labi runā~~**ju**~~ latviešu valod**ā**.
 Viņ**amš** patīk studēt arī valodas.
 Ivo arī strādā, viņš strādā kafejnīcā Rīga**s** centrā.  
