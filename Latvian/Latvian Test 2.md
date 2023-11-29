@@ -37,15 +37,15 @@ vini/vinas | iet  | gaja | ies|ir | bija | bus | patik
 
 **Dienas. (Nom. diena)**
 
-| KAS = WHAT |  KAD = WHEN | KAD |
-|------------| -----------|------|
-| **Pirmdiena** 1. diena – pirmā diena |(When? Kad? pirmdien)| pirmdiena
-| **Otrdiena** 2. diena – otrā diena |(Kad?  otrdien)| otrdiena
-| **Trešdiena** 3. diena – trešā diena  |(Kad? Tresdien) | tresdiena
-| **Ceturtdiena** 4. diena – ceturtā diena  |(Kad? Ceturtdien) | ceturdiena
-| **Piektdiena** 5. diena – piektā diena |(Kad? Piektdien) | piektdiena
-| **Sestdiena** 6.diena – sestā diena  | (Kad? Sestdien) | sestdiena
-| **Svētdiena** 7.svētā diena -  svēta diena|  (Kad? Svetdien) | svetdiena
+| KAS = WHAT |  KAD = WHEN |
+|------------| -----------|
+| **Pirmdiena** 1. diena – pirmā diena |(When? Kad? pirmdien)| 
+| **Otrdiena** 2. diena – otrā diena |(Kad?  otrdien)| 
+| **Trešdiena** 3. diena – trešā diena  |(Kad? Tresdien) |
+| **Ceturtdiena** 4. diena – ceturtā diena  |(Kad? Ceturtdien) | 
+| **Piektdiena** 5. diena – piektā diena |(Kad? Piektdien) |
+| **Sestdiena** 6.diena – sestā diena  | (Kad? Sestdien) |
+| **Svētdiena** 7.svētā diena -  svēta diena|  (Kad? Svetdien) |
 
 
 - **Svēts, svetigs** – holy, sacred (adjective)
