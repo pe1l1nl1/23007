@@ -84,4 +84,3 @@
 
 42. **Severe Allergic Reaction Preparedness:** The person should carry an epinephrine auto-injector (EpiPen) to manage severe allergic reactions promptly.
 
-These questions cover a wide range of medical topics from diagnosis to specific conditions, treatments, and nutritional aspects.
