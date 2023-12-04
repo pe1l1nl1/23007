@@ -1,84 +1,87 @@
-# Questions for the Final test for "Introduction to Medicine studies” 2023 
+# Q&A for the Final test for "Introduction to Medicine studies” 2023 
 
-1. Whilst diagnosing disease – what is the right order to start with? 
+1. **Right Order for Diagnosing Disease:** Generally, it begins with history taking, followed by physical examination, ordering relevant diagnostic tests (like blood tests, imaging, etc.), and finally, reaching a diagnosis based on collected information.
 
-2. Why is laryngitis and edema of the larynx so dangerous?
+2. **Danger of Laryngitis and Laryngeal Edema:** They can be dangerous due to the potential for airway obstruction, leading to difficulty breathing or even asphyxiation.
 
-3. Signs of respiratory insufficiency
+3. **Signs of Respiratory Insufficiency:** Shortness of breath, cyanosis (bluish discoloration of the skin), increased respiratory rate, confusion or altered mental status, and use of accessory muscles to breathe.
 
-4. People with coeliac disease are allowed to eat 4 cereals-grains
+4. **Cereals Allowed for People with Coeliac Disease:** Rice, corn, quinoa, and oats (if labeled gluten-free and uncontaminated).
 
-5. Can coeliac disease be completely cured today?   
-6. Symptoms of coeliac disease in adults may include a variety of non –specific symptoms
+5. **Complete Cure for Coeliac Disease:** Currently, there's no known cure. The condition can be managed by adhering strictly to a gluten-free diet.
 
-7. The main risk factor for peptic ulcers of the stomach & small intestine is
+6. **Symptoms of Coeliac Disease in Adults:** Non-specific symptoms may include fatigue, anemia, bone or joint pain, and neurological symptoms like numbness or tingling in extremities.
 
-8. Where is the appendix (appendix vermiformis) located in most people?
+7. **Main Risk Factor for Peptic Ulcers:** Helicobacter pylori infection or the use of non-steroidal anti-inflammatory drugs (NSAIDs) like ibuprofen.
 
-9. Appendicitis – location(the place) of pain may vary from person to person. What is the main reason for this? 
+8. **Location of the Appendix:** Typically located in the lower right quadrant of the abdomen.
 
-10. Myocardial infarction (MI) – which one is not true? To know different symptoms of MI
+9. **Variability in Appendicitis Pain Location:** Pain location can vary due to the appendix's position and the individual's anatomical variation.
 
-11. Stenocardia(stable form) – what is not correct?(one) (To know forms of Stenocardia)
+10. **Myocardial Infarction (MI) - Not True Statement:** "MI always presents with severe, crushing chest pain." Different individuals may experience various symptoms beyond just chest pain.
 
-12. The typical clinical presentation of Myocardial infarction(MI) includes
+11. **Stable Stenocardia Inaccuracy:** It does not typically involve pain at rest, unlike unstable angina.
 
-13. Criteria that is used for distinguishing between stable stenocardia and unstable stenocardia (one)
+12. **Clinical Presentation of MI:** Chest pain, shortness of breath, nausea, vomiting, sweating, and palpitations.
 
-14. The symptoms of stroke are most dependent on (one)
+13. **Criteria to Distinguish Stable and Unstable Stenocardia:** Unstable stenocardia occurs at rest or with minimal exertion and is not relieved by rest or medication.
 
-15. Ischemic stroke – most commonly caused by(one) (to know forms of stroke)
+14. **Symptoms of Stroke Most Dependent on:** The area of the brain affected by the stroke determines the symptoms, which can include weakness, numbness, speech difficulties, and sudden confusion or loss of coordination.
 
-16. Hemorrhagic stroke most commonly (50%) caused by
-17. Stroke – what is the ideal time limit for the stroke patient to be brought to the hospital 
+15. **Most Common Cause of Ischemic Stroke:** Usually caused by a blood clot blocking an artery supplying blood to the brain.
 
-18. Stroke – time-window for successful treatment of the patient provided  by a specific stroke unit is? 
+16. **Cause of Hemorrhagic Stroke:** Often caused by the rupture of a weakened blood vessel in the brain, leading to bleeding.
 
-19. Which place among main causes of death belongs to cardiovascular diseases in the industrial countries
+17. **Ideal Time Limit for Stroke Patient to Reach Hospital:** The earlier, the better; within the first few hours (ideally less than 3-4.5 hours) for potentially life-saving treatments.
 
-20. Can MI occur without pain?  
+18. **Time Window for Successful Stroke Treatment:** Rapid intervention within the first hours is crucial for successful treatment; some specialized units aim for intervention within the first 60 minutes (the "golden hour").
 
-21. Why can MI be mixed up with stroke? 
+19. **Cardiovascular Diseases Among Main Causes of Death:** They typically rank high among causes of death in industrial countries.
 
-22. Which symptoms may overlap in both – Stroke&MI
+20. **Possibility of MI Without Pain:** Yes, it's possible, especially in individuals with atypical symptoms or specific underlying conditions.
 
-23. Which type of stenocardia is the most dangerous?
+21. **Confusion between MI and Stroke:** Both can present with sudden onset symptoms that may include weakness, confusion, and difficulty speaking.
 
-24. The norm of arterial blood pressure according to American Heart Association guidelines of 2017 in mm/Hg(Mercury)is:
+22. **Overlapping Symptoms in Stroke and MI:** Shortness of breath, chest pain or discomfort, and dizziness can overlap between the two conditions.
 
+23. **Most Dangerous Type of Stenocardia:** Unstable stenocardia is the most dangerous as it can progress to a heart attack (MI).
 
-25. What are the main consequences of mild iodine deficiency on foetus and schoolchildren in Latvia and in rest of the world?
- 
-26. How a mild  deficiency of selenium might influence students’ health (to know impact of deficiency of selenium, vitamin D and iron on students’ everyday life – immune system, mood)
+24. **Normal Arterial Blood Pressure as per AHA 2017 Guidelines:** Typically, 120/80 mmHg is considered normal.
 
-27. What can be impact of vitamin D deficiency in most students(2 options) ? 
+25. **Consequences of Mild Iodine Deficiency:** In fetuses and schoolchildren, it can lead to developmental issues, cognitive impairments, and potentially goiter (enlarged thyroid).
 
-28. What does a deficiency of iron (Fe) result in for most students, (3 options)
+26. **Impact of Selenium Deficiency on Students' Health:** Selenium deficiency might affect the immune system, mood, and overall well-being of students.
 
-29. How many women of reproductive age have iron deficiency in the European region?
+27. **Impact of Vitamin D Deficiency in Students:** Vitamin D deficiency can lead to weakened immunity and mood disturbances.
 
-30. What system of foetus is affected   by folic acid deficiency during pregnancy? 
+28. **Results of Iron (Fe) Deficiency in Students:** Iron deficiency can cause fatigue, weakness, and decreased cognitive function.
 
-31. What are the main groups of noncommunicable (not infections) diseases - being main causes of decreased healthy years of life and mortality and that could be prevented/diminished using healthy, balanced nutrition since the early childhood? (3 options)
+29. **Iron Deficiency in European Women of Reproductive Age:** A significant number of women in the European region have iron deficiency.
 
-32. Should pregnant women use supplements with iodine in countries without iodine deficiency? 
+30. **System Affected by Folic Acid Deficiency in Pregnancy:** Folic acid deficiency can affect the neural tube development in the fetus, leading to neural tube defects.
 
-33. What are specific symptoms?(3 examples) 
+31. **Main Noncommunicable Diseases Influenced by Nutrition:** Heart disease, obesity, and diabetes can be influenced by balanced nutrition from early childhood.
 
-34. What are non-specific symptoms( 5 examples)
+32. **Iodine Supplements for Pregnant Women in Countries without Deficiency:** Yes, it's recommended to ensure adequate iodine intake for both mother and fetus.
 
-35. The WHO suggested norm of iodine supplements during the pregnancy in countries with iodine deficiency? 
+33. **Specific Symptoms:** Specific symptoms might include fever, rash, or localized pain, depending on the context.
 
-36. Which is the only microelement(not vitamin B12) that cannot be sufficiently obtained with a vegan diet( in contradiction to omnivours), also needs to be consumed as supplement?  
+34. **Non-Specific Symptoms:** Non-specific symptoms could include fatigue, headache, nausea, general malaise, and mild fever.
 
-37. What is the specific effect of a deficiency of this microelement in pregnant vegan on the development of her child? 
+35. **WHO Suggested Norm of Iodine Supplements During Pregnancy:** Around 150 mcg/day is recommended in iodine-deficient areas.
 
-38. What is IGF and what is its role in cooperation with Zn?
+36. **Microelement Not Sufficiently Obtained in Vegan Diet:** Zinc is often insufficiently obtained in vegan diets and might require supplementation.
 
-39. How do the cells of the pancreas and the body respond to the food mostly consisting of simple sugars if compared to complex sugars?(one)
+37. **Effect of Zinc Deficiency in Pregnant Vegans on Child Development:** Zinc deficiency in pregnancy might impact the child's growth and cognitive development.
 
-40. For a young adult or student, what blood pressure is considered to place the individual at increased risk?( one) (to look at AHAA and WHO recommendations of 2017 in regard to normal, elevated blood pressure and figures of the risk)
+38. **IGF (Insulin-like Growth Factor) and Its Role with Zinc:** IGF works in conjunction with zinc in cellular growth and metabolism.
 
-41.You are on a hiking trip. A bee stings your friend in the tongue, his tongue starts swelling and he is having trouble breathing. What immediate first aid can you provide him?
+39. **Response of Pancreas and Body to Simple Sugars:** They cause rapid spikes in blood sugar levels compared to complex sugars, leading to increased insulin release.
 
-42. If the person has a tendency towards severe allergic reactions to insect bites, what would you insist that he/she should always carry with leaving  the home? 
+40. **Blood Pressure Considered Risky for Young Adults:** Elevated blood pressure, particularly values higher than 130/80 mmHg, poses an increased risk.
+
+41. **Immediate First Aid for Bee Sting in Tongue with Swelling:** Seek emergency medical help immediately. While waiting, keep the person calm, apply a cold compress if possible, and monitor their breathing and vital signs.
+
+42. **Severe Allergic Reaction Preparedness:** The person should carry an epinephrine auto-injector (EpiPen) to manage severe allergic reactions promptly.
+
+These questions cover a wide range of medical topics from diagnosis to specific conditions, treatments, and nutritional aspects.
