@@ -9,3 +9,7 @@
 ### Polycyclic aromatic hydrocarbons PAH
 
 Toluene poses acute health risks, while PAHs are associated with long-term toxicity and carcinogenicity.
+
+### Reactions formulas
+
+<img width="877" alt="Screenshot 2023-12-05 at 01 02 03" src="https://github.com/pe1l1nl1/23007/assets/19546253/5b24451e-3ec4-4704-bb06-251102c8b7b1">
