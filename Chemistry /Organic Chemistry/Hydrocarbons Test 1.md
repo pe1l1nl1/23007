@@ -84,7 +84,7 @@ PAHs = polycyclic aromatic hydrocarbons are built of fuzed benzene rings, includ
 
 <img width="527" alt="Screenshot 2023-12-05 at 01 42 51" src="https://github.com/pe1l1nl1/23007/assets/19546253/8b587b2d-e19d-4cab-b134-c4fff96b9d3e">
 
-Toluene poses acute health risks, while PAHs are associated with long-term toxicity and carcinogenicity.
+Toluene poses acute health risks, while PAHs are associated with long-term toxicity and carcinogenicity. Polycyclic aromatic arenes are carcinogenic.
 
 <img width="546" alt="Screenshot 2023-12-05 at 01 43 29" src="https://github.com/pe1l1nl1/23007/assets/19546253/46e076c4-c9c8-4488-8095-1f54069c390e">
 
