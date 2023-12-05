@@ -70,6 +70,8 @@
 
 ![image](https://github.com/pe1l1nl1/23007/assets/19546253/ac652db6-921c-4a56-8557-12442ba83e5b)
 
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/5d619d3b-f085-426d-a0c6-24dbede9b37e)
+
 
 ## Aromatic compounds and Polycyclic aromatic hydrocarbons PAH
 <img width="518" alt="Screenshot 2023-12-05 at 01 39 53" src="https://github.com/pe1l1nl1/23007/assets/19546253/ee857668-8755-4140-ba0a-1ca0022e6dc1">
