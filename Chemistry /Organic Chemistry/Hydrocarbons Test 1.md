@@ -1,9 +1,22 @@
 # Hydrocarbons 
 
 **Content:** alkanes, alkenes, alkynes, arenes PAH(=polycyclic aromatic hydrocarbons)
+
+### Bonds 
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/788aa7c1-38e8-4e8f-8551-64971fdbd94a)
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/5a7e26b0-b21e-4456-9ae0-998b13abd69a)
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/5cd8033b-18d5-40c0-8522-37035e84f73f)
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/bca69ebb-2a91-4b22-ba8f-9011e7a8144e)
+
+
 ## Nomenclature 
+<img width="526" alt="image" src="https://github.com/pe1l1nl1/23007/assets/19546253/d1b3e9d0-923e-4876-b5aa-985ed4efe0f0">
 
 <img width="600" alt="Screenshot 2023-12-05 at 00 24 01" src="https://github.com/pe1l1nl1/23007/assets/19546253/12ba4ba3-0726-42c8-8f7c-236f7d9eca8a">
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/dd930aea-7ae9-4f27-a071-cdbd15ba0eff)
+
 
 ## Alkanes and Cycloalkanes; Conformational and Geometric Isomerism
 
