@@ -175,7 +175,7 @@ Vakar mēs ______gajam___________________ (iet) uz ______kafejnicu______________
 - **Sestdien vai svētdien. Saturday or Sunday**
 - Sestdiena vai svētdiena.
 2. Vai tu tagad ej uz veikalu? Are you going to the store now? 
-- **Jā, tagad eju uz veikalu. (if I go to the store tagad= now) **
+- **Jā, tagad eju uz veikalu. (if I go to the store tagad= now)**
 - Jā, iešu.
 - **Nē, neeju.**
 3. Vai šodien ārā ir labs laiks? Is today a good day?
