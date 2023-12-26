@@ -69,3 +69,13 @@ Material about this question is in Textbook of Histology, Fifth Edition, Leslie 
 
 - **Diakinesis:** Diakinesis is the final stage of meiosis I prophase when chromosomes continue to condense and chiasmata become visible, marking sites of genetic exchange.
 
+
+# Meiosis & Mitosis 
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/4e9c35a4-b5ab-4130-aedc-173e550375e0)
+
+
+![image](https://github.com/pe1l1nl1/23007/assets/19546253/5a5ffd3a-b50c-48b1-99fa-2090bd7cf281)
+
+
+
